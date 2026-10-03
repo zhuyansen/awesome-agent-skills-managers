@@ -1,0 +1,1164 @@
+{
+ "generated": "2026-10-03",
+ "source": "https://agentskillshub.top/best/skill-management-tools/",
+ "kinds": [
+  {
+   "id": "general",
+   "icon": "🧱",
+   "en": "All-in-one",
+   "zh": "综合管理"
+  },
+  {
+   "id": "cli",
+   "icon": "⌨️",
+   "en": "CLI installers",
+   "zh": "命令行安装"
+  },
+  {
+   "id": "sync",
+   "icon": "🔄",
+   "en": "Sync across agents",
+   "zh": "多 Agent 同步"
+  },
+  {
+   "id": "app",
+   "icon": "🖥",
+   "en": "Apps & GUIs",
+   "zh": "桌面与界面"
+  },
+  {
+   "id": "registry",
+   "icon": "🔎",
+   "en": "Registries & marketplaces",
+   "zh": "市场与目录"
+  },
+  {
+   "id": "team",
+   "icon": "👥",
+   "en": "Teams",
+   "zh": "团队管理"
+  }
+ ],
+ "skills": [
+  {
+   "repo_full_name": "runkids/skillshare",
+   "path": null,
+   "stars": 2711,
+   "description": "📚 Your AI coding setup, everywhere. Manage skills, agents, rules, MCP connections and hooks in one place and simplify team sharing with the desktop app or CLI.",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "Go",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "wanghuan9/skill-manager",
+   "path": null,
+   "stars": 606,
+   "description": "SkillDock is an AI skill manager and skill management desktop app for Claude Code, Cursor, Codex, Windsurf, Gemini CLI, and other AI coding tools. Install, organize, edit, sync, and update Skills, MCP servers, and plugins with real-directory scanning and Git-aware Diff previews. AI Skill Manager / Skill 管理软件 / MCP 管理工具.",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "Rust",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "RealZST/HarnessKit",
+   "path": null,
+   "stars": 448,
+   "description": "More than a skill manager — manage skills, MCP servers, plugins, hooks, CLIs, configs, memory & rules across every AI coding agent. 🌟 Star if you like it!",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "Rust",
+   "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "pivoshenko/kasetto",
+   "path": null,
+   "stars": 208,
+   "description": "📼 Declarative AI agent environment manager, written in Rust",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "Rust",
+   "license": "NOASSERTION"
+  },
+  {
+   "repo_full_name": "sandbaseai/sandbase-skills",
+   "path": null,
+   "stars": 201,
+   "description": "88 installable open-source Agent Skills for research, social intelligence, marketing, and business workflows—compatible with Codex, Claude Code, Cursor, Gemini CLI, and DeepSeek Harness.",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "vanillagreencom/kendex",
+   "path": null,
+   "stars": 82,
+   "description": "Package manager for agents, skills, hooks, and extensions. Author once, install on every harness. QOL features included.",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "Shell",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "mensfeld/craftdesk",
+   "path": null,
+   "stars": 67,
+   "description": "Package manager for Claude Code skills and agents and other AI related resources",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": null
+  },
+  {
+   "repo_full_name": "GrubbyLee/skill-manager",
+   "path": null,
+   "stars": 29,
+   "description": "Zero-dependency CLI to scan, recommend, deduplicate, audit, and visualize Claude Code / Codex skills and MCP servers.",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "barleviatias/toolkit-ai",
+   "path": null,
+   "stars": 12,
+   "description": "Package manager for AI coding assistants — manage skills, agents & MCPs across Claude Code, Codex, Copilot, and Cursor",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "Asher-pro/skill-installer",
+   "path": null,
+   "stars": 6,
+   "description": "Install any skill to Claude Code. ",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": null,
+   "license": null
+  },
+  {
+   "repo_full_name": "VersoXBT/skill-manager",
+   "path": null,
+   "stars": 6,
+   "description": "Claude Code plugin — inventory all your installed skills, check structure, and find updates. Free, zero dependencies.",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "robertoatila/jarvis-skill-registry",
+   "path": null,
+   "stars": 6,
+   "description": "Local-first cognitive runtime for AI agents: bounded context, persistent memory, tool/model routing and verified execution.",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "PowerShell",
+   "license": "NOASSERTION"
+  },
+  {
+   "repo_full_name": "MoizIbnYousaf/ai-agent-skills",
+   "path": null,
+   "stars": 1146,
+   "description": "Universal skill installer and package manager for AI coding agents. One command, 12+ runtimes. npx ai-agent-skills",
+   "kind": "cli",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "luongnv89/agent-skill-manager",
+   "path": null,
+   "stars": 949,
+   "description": "The universal skill manager for AI coding agents.",
+   "kind": "cli",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "knoxgraeme/skillfish",
+   "path": null,
+   "stars": 320,
+   "description": "The skill manager for AI coding agents. Install, update, and sync skills across Claude Code, Cursor, Copilot + more.",
+   "kind": "cli",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "AGPL-3.0"
+  },
+  {
+   "repo_full_name": "VintLin/skill-flow",
+   "path": null,
+   "stars": 260,
+   "description": "Install, manage, and share skills across every major coding agent — Claude Code, Cursor, Copilot, and more.",
+   "kind": "cli",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "activeing123/mcptoon",
+   "path": null,
+   "stars": 207,
+   "description": "One zero-dependency CLI for every MCP server and agent skill. Token optimization, tool discovery and context compression: 71,929 -> 581 tokens (-99.2%, measured), schemas stay out of context. One config for Claude Code, Codex, Cursor, every agent. 341KB, pure Python. | 零依赖 CLI：管所有 MCP 工具与技能，工具发现省 99.2% token。",
+   "kind": "cli",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "Karanjot786/agent-skills-cli",
+   "path": null,
+   "stars": 181,
+   "description": "Universal CLI for Agent Skills. Access 200,000+ skills from SkillsMP and sync them to Cursor, Claude Code, GitHub Copilot, OpenAI Codex, and Antigravity.",
+   "kind": "cli",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "eljulians/skillfile",
+   "path": null,
+   "stars": 172,
+   "description": "One-stop shop for AI skills and agents. Search 110K+ community skills, install and track them declaratively, and deploy across all major AI coding tools (Claude Code, Codex, Cursor, Antigravity and more)",
+   "kind": "cli",
+   "security_grade": "safe",
+   "language": "Rust",
+   "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "Soul-Brews-Studio/arra-oracle-skills-cli",
+   "path": null,
+   "stars": 121,
+   "description": "Install Oracle skills to Claude Code, OpenCode, Cursor, and 12+ AI coding agents",
+   "kind": "cli",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "rolecraft-sh/rolecraft",
+   "path": null,
+   "stars": 88,
+   "description": "The security-first skill manager for AI agents — every install runs a security scan. Manage skills & MCP servers across 87 agents. Zero-dependency CLI.",
+   "kind": "cli",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "sametcelikbicak/rolecraft",
+   "path": null,
+   "stars": 88,
+   "description": "The security-first skill manager for AI agents — every install runs a security scan. Manage skills & MCP servers across 87 agents. Zero-dependency CLI.",
+   "kind": "cli",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "arkylab/aspm",
+   "path": null,
+   "stars": 82,
+   "description": "A Git-based package manager designed for AI-assisted development, similar to npm but supporting skills, agents, commands, hooks, and any AI resource types.",
+   "kind": "cli",
+   "security_grade": "safe",
+   "language": "Rust",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "Autoloops/upskill",
+   "path": null,
+   "stars": 69,
+   "description": "CLI + skill for the Autoloops upskill registry. Search, inspect, report on, and publish agent skills from your shell.",
+   "kind": "cli",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "lingbol088-spec/auto-skill-installer",
+   "path": null,
+   "stars": 68,
+   "description": "AI agent skill discovery and installer / AI 智能体技能自动发现与安装器",
+   "kind": "cli",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "kcchien/skills-cli",
+   "path": null,
+   "stars": 65,
+   "description": "Cross-platform CLI for managing Claude Code and Claude Desktop skills",
+   "kind": "cli",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "EfanWang/skills-manager",
+   "path": null,
+   "stars": 30,
+   "description": "Manage, install, update, and trace agent skills (Claude Code, Cursor, Codex CLI)",
+   "kind": "cli",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "tiandee/awesome-skills-hub",
+   "path": null,
+   "stars": 18,
+   "description": "A professional package manager for AI IDE skills & rules. Centralize your prompts and sync across Antigravity, Cursor, Windsurf, and Claude with \"Write Once, Link Everywhere\" simplicity.",
+   "kind": "cli",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "itaywol/adeptability",
+   "path": null,
+   "stars": 9,
+   "description": "Cross-harness AI skill portability CLI. Author an agent skill once, sync it into Claude Code, Cursor, Copilot, Codex, OpenCode & 45+ AI coding agents. Safety scanner, content-hash drift detection. A package manager / dotfiles for AI coding agent skills.",
+   "kind": "cli",
+   "security_grade": "safe",
+   "language": "Go",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "osolmaz/skillflag",
+   "path": null,
+   "stars": 8,
+   "description": "A simple CLI flag convention for listing and installing agent skills. Bundle and publish your tool's skill directly with your package, without the need for a skill registry!",
+   "kind": "cli",
+   "security_grade": "safe",
+   "language": "Rust",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "dafage10086/agent-skill-manager",
+   "path": null,
+   "stars": 7,
+   "description": "渗透，逆向，外挂脚本技能寻找不可缺 【逆向，渗透，注入，破解，游戏辅助",
+   "kind": "cli",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "xu-xiang/oneskill",
+   "path": null,
+   "stars": 7,
+   "description": "The Universal App Store for AI Agents. Discover & Install Skills for Claude Code, Cursor, Windsurf, Aider, Codex & Gemini.",
+   "kind": "cli",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "osulivan/skill4agent-cli",
+   "path": null,
+   "stars": 6,
+   "description": "By skill4agent.com, a command-line tool for installing Agent Skills.",
+   "kind": "cli",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": null
+  },
+  {
+   "repo_full_name": "tsvelovskiysv/claude-skill-router",
+   "path": null,
+   "stars": 5,
+   "description": "Semantic router for Claude Code Agent Skills — finds and installs the right skills for your project from a 65k catalog.",
+   "kind": "cli",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "shanliuling/skills-link",
+   "path": null,
+   "stars": 197,
+   "description": "Sync your local skills across 41+ AI coding agents with a single command.",
+   "kind": "sync",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "nnnggel/skills-management",
+   "path": null,
+   "stars": 128,
+   "description": "A CLI tool to manage and synchronize AI coding agent skills",
+   "kind": "sync",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": null
+  },
+  {
+   "repo_full_name": "kina-cmd/agent-skill-sync",
+   "path": null,
+   "stars": 100,
+   "description": "Scan, classify (A/B/C/D) and sync AI-agent SKILL.md files across toolchains (Codex, Claude Code, WorkBuddy). Zero-dependency Python CLI.",
+   "kind": "sync",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "luna-prompts/skillnote",
+   "path": null,
+   "stars": 65,
+   "description": "The open-source skill registry for AI coding agents. Create, manage, and distribute SKILL.md files across Openclaw, Claude Code, Cursor, Codex, OpenHands, Antigravity, and more.",
+   "kind": "sync",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "huangrichao2020/pretty-skills",
+   "path": null,
+   "stars": 54,
+   "description": "跨 agent 的 skill 管理器 + skill 推广工具，欢迎fork和pr。管理你所有 skill ，创建技能自带讲解pdf或ppt。支持各种Agent。",
+   "kind": "sync",
+   "security_grade": "safe",
+   "language": "HTML",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "AdamBartkiewicz/praxl-oss",
+   "path": null,
+   "stars": 8,
+   "description": "Open-source AI skill manager — sync SKILL.md across Claude Code, Cursor, Codex, Copilot, Windsurf, Gemini & more. Self-host or use the cloud.",
+   "kind": "sync",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "NOASSERTION"
+  },
+  {
+   "repo_full_name": "Naoray/scribe",
+   "path": null,
+   "stars": 5,
+   "description": "Local skill manager for AI coding agents. One SKILL.md, projected across Claude Code, Cursor, Codex, Gemini. Lockfile-pinned, project-scoped, MIT.",
+   "kind": "sync",
+   "security_grade": "caution",
+   "language": "Go",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "HKUDS/OpenSpace",
+   "path": null,
+   "stars": 7740,
+   "description": "\"OpenSpace: The Skill Management Layer for AI Agents\" -- https://open-space.cloud/",
+   "kind": "app",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "xingkongliang/skills-manager",
+   "path": null,
+   "stars": 5405,
+   "description": "A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+   "kind": "app",
+   "security_grade": "safe",
+   "language": "Rust",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "Shpigford/chops",
+   "path": null,
+   "stars": 1931,
+   "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
+   "kind": "app",
+   "security_grade": "safe",
+   "language": "Swift",
+   "license": "NOASSERTION"
+  },
+  {
+   "repo_full_name": "qufei1993/skills-hub",
+   "path": null,
+   "stars": 1717,
+   "description": "A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install once, sync everywhere”.",
+   "kind": "app",
+   "security_grade": "safe",
+   "language": "Rust",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "skillsgate/skillsgate",
+   "path": null,
+   "stars": 1342,
+   "description": null,
+   "kind": "app",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "jiweiyeah/Skills-Manager",
+   "path": null,
+   "stars": 1010,
+   "description": "Free, open-source desktop manager for AI Agent Skills. Write a skill once, sync it to 32 AI coding tools (Claude Code, Codex, Cursor, Gemini CLI, and more) via symlinks. Local-first, MIT licensed. macOS, Windows, Linux.",
+   "kind": "app",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "wanghuan9/skilldock",
+   "path": null,
+   "stars": 606,
+   "description": "SkillDock is an AI skill manager and skill management desktop app for Claude Code, Cursor, Codex, Windsurf, Gemini CLI, and other AI coding tools. Install, organize, edit, sync, and update Skills, MCP servers, and plugins with real-directory scanning and Git-aware Diff previews. AI Skill Manager / Skill 管理软件 / MCP 管理工具.",
+   "kind": "app",
+   "security_grade": "safe",
+   "language": "Rust",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "skillhub-club/skillhub-desktop",
+   "path": null,
+   "stars": 599,
+   "description": "One desktop to manage your agent skills",
+   "kind": "app",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": null
+  },
+  {
+   "repo_full_name": "yibie/skills-manager",
+   "path": null,
+   "stars": 450,
+   "description": "A native macOS app to manage skills across coding agents — Claude Code, Cursor, Copilot CLI, Codex, Gemini CLI",
+   "kind": "app",
+   "security_grade": "safe",
+   "language": "Swift",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "bruc3van/agent-skills-guard",
+   "path": null,
+   "stars": 389,
+   "description": "一款提供Agent Skills安全扫描和可视化管理的桌面应用 | A desktop application that provides security scanning and visual management for Agent Skills.",
+   "kind": "app",
+   "security_grade": "safe",
+   "language": "Rust",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "brucevanfdm/agent-skills-guard",
+   "path": null,
+   "stars": 389,
+   "description": "一款提供Agent Skills安全扫描和可视化管理的桌面应用 | A desktop application that provides security scanning and visual management for Agent Skills.",
+   "kind": "app",
+   "security_grade": "safe",
+   "language": "Rust",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "chrlsio/agent-skills",
+   "path": null,
+   "stars": 299,
+   "description": "Lightweight, high-performance cross-platform desktop app to browse, sync, and manage AI agent skills across Claude Code, Cursor, Gemini CLI, Copilot, and more.（轻量高性能的跨平台 AI Agent Skills 管理工具）",
+   "kind": "app",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "alvinunreal/lazyskills",
+   "path": null,
+   "stars": 265,
+   "description": "mission control for agent skills",
+   "kind": "app",
+   "security_grade": "safe",
+   "language": "Go",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "scottcwy/skill-kits",
+   "path": null,
+   "stars": 201,
+   "description": "Skill-kits is a zero-dependency, single-binary AI Agent Skills management tool for any LLM and multi-agent workflows.",
+   "kind": "app",
+   "security_grade": "safe",
+   "language": "Rust",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "Rito-w/skills-manager",
+   "path": null,
+   "stars": 196,
+   "description": "A cross-platform skills manager for AI IDEs. Search marketplace, download locally, and install to Claude, Cursor, Windsurf, and more with one click.",
+   "kind": "app",
+   "security_grade": "safe",
+   "language": "Vue",
+   "license": null
+  },
+  {
+   "repo_full_name": "tddworks/SkillsManager",
+   "path": null,
+   "stars": 168,
+   "description": "A macOS application for discovering, browsing, and installing skills for AI coding assistants. Manage skills for Claude Code and Codex from GitHub repositories or your local filesystem.",
+   "kind": "app",
+   "security_grade": "safe",
+   "language": "Swift",
+   "license": null
+  },
+  {
+   "repo_full_name": "cchao123/skills-manager",
+   "path": null,
+   "stars": 124,
+   "description": "A package manager for AI agent skills with cross-agent sharing, sync, and deployment.",
+   "kind": "app",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "khendzel/skills-janitor",
+   "path": null,
+   "stars": 123,
+   "description": "Tinder for your Claude Code skills, subagents and MCP servers. Swipe away what wastes context, scan for prompt injection, get honest token costs. Fixes what it finds and actually deletes. Zero dependencies, Claude Code + Codex.",
+   "kind": "app",
+   "security_grade": "safe",
+   "language": "Shell",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "luochang212/skill-zoo",
+   "path": null,
+   "stars": 114,
+   "description": "All-in-One Desktop Agent Skills Utility. Welcome to the Skill Zoo, where all your skills live!",
+   "kind": "app",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "MichengAI/dsh-skills-manager",
+   "path": null,
+   "stars": 89,
+   "description": "DSH Skills Manager — 在 DeepSeek Harness 中统一加载并安全管理本机 Agent Skills · Load and safely manage local Agent Skills in DSH",
+   "kind": "app",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "liuxingqitd/skills-hub",
+   "path": null,
+   "stars": 81,
+   "description": "A local dashboard to manage AI coding agent skills — sync, install, and organize skills across OpenClaw, Cursor, Claude Code, and more.",
+   "kind": "app",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "youzaiAGI/agent-skills-hub",
+   "path": null,
+   "stars": 71,
+   "description": "Management of skill packages",
+   "kind": "app",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "zunalabs/skills-manager",
+   "path": null,
+   "stars": 70,
+   "description": "A universal desktop app for managing AI agent skills across all major coding agents.",
+   "kind": "app",
+   "security_grade": "safe",
+   "language": "HTML",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "Milktang0128/myskills",
+   "path": null,
+   "stars": 58,
+   "description": "AI Skill Hub — a cross-platform desktop app to discover, dedupe, organize, and sync AI agent skills across Claude Code, Codex, and a shared pool. Ships an MCP server so your agent can run the whole library — install, align, organize, clean up — every write gated and reversible.",
+   "kind": "app",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "asteroid-belt/skulto",
+   "path": null,
+   "stars": 51,
+   "description": "Offline and security-first tool for syncing and managing agent skills",
+   "kind": "app",
+   "security_grade": "safe",
+   "language": "Go",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "mcp360/mTarsier",
+   "path": null,
+   "stars": 50,
+   "description": "mTarsier - The Open Source MCP & Skill Manager for Claude, Cursor, VS Code & any AI client.",
+   "kind": "app",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "umutbozdag/agent-skills-manager",
+   "path": null,
+   "stars": 40,
+   "description": "Manage all your AI agent skills from a single dashboard — Cursor, Claude, and Agents",
+   "kind": "app",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "razbakov/skill-mix",
+   "path": null,
+   "stars": 36,
+   "description": "A management layer for AI agent skills — discover, install, scope, rate, and update skills across Cursor, Codex, and Claude Code.",
+   "kind": "app",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": null
+  },
+  {
+   "repo_full_name": "ivanpham86/Claude-code-skill-manager",
+   "path": null,
+   "stars": 17,
+   "description": null,
+   "kind": "app",
+   "security_grade": "unknown",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "yiwen65/SkillDock",
+   "path": null,
+   "stars": 12,
+   "description": "Local-first Git workspace and symlink installer for AI agent skills across   Claude Code, Codex, and custom agents.",
+   "kind": "app",
+   "security_grade": "safe",
+   "language": "Rust",
+   "license": "NOASSERTION"
+  },
+  {
+   "repo_full_name": "sulfide2085/dsh-skill-manager",
+   "path": null,
+   "stars": 11,
+   "description": "在 DeepSeek Harness 设置页统一管理 DSH / Codex / Claude 的 AI 技能：热开关启停、GitHub 技能市场一键发现安装、本地 ZIP 导入（dsh-plugin skill hub）",
+   "kind": "app",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "oliwier-xiao/agent-skills-manager",
+   "path": null,
+   "stars": 6,
+   "description": "Every skill, plugin and MCP server Claude Code, OpenCode and Codex load, in one searchable list on your Omarchy bar — with what each one costs you in tokens on every turn, and the command that invokes it. An Omarchy Quattro bar widget.",
+   "kind": "app",
+   "security_grade": "safe",
+   "language": "QML",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "GuiKang0424/skills-manager-ui",
+   "path": null,
+   "stars": 5,
+   "description": "# ✨ Skills Manager｜AI 技能管家，终于不用一个文件夹一个文件夹抄了  > 写给那些：Cursor、Claude Code、Codex……装了一堆 skill，目录乱成一锅粥的人 🥣  ---  ## 先说人话  你会不会这样：  - ClawHub 下了一个 skill → 复制到 Cursor   - 又要装到 Claude → 再复制一遍   - 标签？描述？全靠文件名硬猜   - 某个编辑器里装了啥，完全不敢卸载    **Skills Manager** 就是干这个的：    **一个中央库收着，一键装到各个 AI 编辑器。**   还能扫、搜、装、卸，带个小蓝白界面（Python + Flet）。",
+   "kind": "app",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "nameczz/skill-sync",
+   "path": null,
+   "stars": 5,
+   "description": "Local Web and CLI manager for syncing Codex skills through Git",
+   "kind": "app",
+   "security_grade": "unknown",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "phuryn/pm-skills",
+   "path": null,
+   "stars": 26741,
+   "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+   "kind": "registry",
+   "security_grade": "safe",
+   "language": null,
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "tech-leads-club/agent-skills",
+   "path": null,
+   "stars": 7025,
+   "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+   "kind": "registry",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "NOASSERTION"
+  },
+  {
+   "repo_full_name": "davepoon/buildwithclaude",
+   "path": null,
+   "stars": 3582,
+   "description": "A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code, Claude Desktop, Agent SDK and OpenClaw",
+   "kind": "registry",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "jeremylongshore/tons-of-skills-marketplace",
+   "path": null,
+   "stars": 2802,
+   "description": "Model-agnostic agent-skills platform with a harness-free canonical layer, verified adapters, and the ccpi package manager. Explore at tonsofskills.com.",
+   "kind": "registry",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "daymade/claude-code-skills",
+   "path": null,
+   "stars": 1441,
+   "description": "Professional Claude Code skills marketplace featuring production-ready skills for enhanced development workflows.",
+   "kind": "registry",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "mhattingpete/claude-skills-marketplace",
+   "path": null,
+   "stars": 679,
+   "description": "Claude Code Skills for software engineering workflows - Git automation, testing, and code review",
+   "kind": "registry",
+   "security_grade": "safe",
+   "language": "HTML",
+   "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "zhuyansen/agent-skills-hub",
+   "path": null,
+   "stars": 400,
+   "description": "Discover and compare open-source Agent Skills, tools & MCP servers — with quality scoring, trending analysis, and automated GitHub sync",
+   "kind": "registry",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "Leon-Drq/openagentskill",
+   "path": null,
+   "stars": 354,
+   "description": "The skill layer for AI agents: npm for AI Agent Skills.",
+   "kind": "registry",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "modu-ai/cowork-plugins",
+   "path": null,
+   "stars": 303,
+   "description": "비개발자를 위한 한국 실무 AI 코워커 패밀리 — Claude Cowork·ChatGPT Work에서 /project 한 번으로 시작",
+   "kind": "registry",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "PramodDutta/qaskills",
+   "path": null,
+   "stars": 230,
+   "description": "QA Skills Directory QA Skills is a curated directory of testing-specific skills for AI coding agents (Claude Code, Cursor, Copilot, etc.).",
+   "kind": "registry",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "ahmedasmar/devops-claude-skills",
+   "path": null,
+   "stars": 204,
+   "description": "A Claude Code Skills Marketplace for DevOps workflows",
+   "kind": "registry",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "nextlevelbuilder/skillx",
+   "path": null,
+   "stars": 185,
+   "description": "SkillX.sh — The Only Skill That Your AI Agent Needs. AI agent skills marketplace with semantic search, leaderboard, ratings, and CLI.",
+   "kind": "registry",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": null
+  },
+  {
+   "repo_full_name": "AElfProject/aelf-skills",
+   "path": null,
+   "stars": 184,
+   "description": "Unified aelf skills hub for discovery, routing, bootstrap, and health checks across OpenClaw, Codex, Cursor, and Claude Code.",
+   "kind": "registry",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": null
+  },
+  {
+   "repo_full_name": "ARPAHLS/skillware",
+   "path": null,
+   "stars": 132,
+   "description": "A Python framework for modular, self-contained skill management for machines.",
+   "kind": "registry",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "agent-skills-hub/agent-skills-hub",
+   "path": null,
+   "stars": 110,
+   "description": "Agent Skills Hub is a global library of AI agent skills that work across OpenClaw, Claude Code, Gemini, Cursor, Antigravity, and more.",
+   "kind": "registry",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "obie/skills",
+   "path": null,
+   "stars": 95,
+   "description": "Claude Code skills marketplace - Production-ready skills for enhanced development workflows",
+   "kind": "registry",
+   "security_grade": "safe",
+   "language": "Ruby",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "existential-birds/beagle",
+   "path": null,
+   "stars": 83,
+   "description": "Agent Skills marketplace: framework-aware skills for code review, documentation, test-plan generation, AI-writing detection, architectural analysis, and git workflows — for Python, Go, Rust, Elixir, React, Remix, and iOS/Swift. Works with Claude Code, Codex, and any agent that supports Agent Skills.",
+   "kind": "registry",
+   "security_grade": "safe",
+   "language": "Shell",
+   "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "terrylica/cc-skills",
+   "path": null,
+   "stars": 75,
+   "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, semantic versioning, and productivity workflows",
+   "kind": "registry",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "ComeOnOliver/skillshub",
+   "path": null,
+   "stars": 66,
+   "description": "🧠 The right skill, one API call. AI agent skills registry with token-efficient skill resolution. 5,000+ skills from 500+ top repos.",
+   "kind": "registry",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "zeroclaw-labs/zeroclaw-skills",
+   "path": null,
+   "stars": 65,
+   "description": "Official skill registry for ZeroClaw — community-contributed AI agent skills, tools, and workflows",
+   "kind": "registry",
+   "security_grade": "safe",
+   "language": null,
+   "license": null
+  },
+  {
+   "repo_full_name": "modelstudioai/skills",
+   "path": null,
+   "stars": 57,
+   "description": "Curated, verified Agent Skills powered by ModelStudio.",
+   "kind": "registry",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "c-kick/hnl-agent-skills",
+   "path": null,
+   "stars": 51,
+   "description": "A reusable agent skills registry for Claude Code and Codex",
+   "kind": "registry",
+   "security_grade": "safe",
+   "language": "HTML",
+   "license": null
+  },
+  {
+   "repo_full_name": "AmadeusITGroup/ai-primitives-hub",
+   "path": null,
+   "stars": 50,
+   "description": "VS Code extension for managing, sharing, and installing AI primitives (Agents, Skills, Prompts, Instructions, MCP) collections for GitHub Copilot and other AI assistants",
+   "kind": "registry",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": null
+  },
+  {
+   "repo_full_name": "codebygarv/Ai-skills",
+   "path": null,
+   "stars": 26,
+   "description": "A community-driven catalogue of 150+ reusable AI agent skills for Claude Code , Antigravity,  Cursor Ai , kimi , deepseek ,Mimo — code review, security auditing, architecture review, and more. Install any skill with one npx command.",
+   "kind": "registry",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "nikships/skills-registry",
+   "path": null,
+   "stars": 21,
+   "description": "Your personal GitHub registry for AI Agent Skills. One repo. EVERY agent. EVERY device. Loaded on demand — Zero startup bloat.",
+   "kind": "registry",
+   "security_grade": "safe",
+   "language": "Go",
+   "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "kevinnft/ai-agent-skills",
+   "path": null,
+   "stars": 14,
+   "description": "191 attribution-first agent skills for Hermes Agent, Claude Code, Cursor — one installer, 28 categories, searchable catalog. See NOTICE for upstream attribution.",
+   "kind": "registry",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "gavinyao/skill-registry-manager",
+   "path": null,
+   "stars": 10,
+   "description": "Claude Code 技能注册表管理工具。通过 YAML 格式的注册表统一管理 skills，支持远程/本地订阅、递归加载和多种安装方式（npx、git、本地复制）。订阅机制让团队或个人可以轻松共享和分发 skills 集合，实现跨设备同步。",
+   "kind": "registry",
+   "security_grade": "safe",
+   "language": null,
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "hgflima/harness-lab",
+   "path": null,
+   "stars": 7,
+   "description": "Curated public registry of AI agent harnesses for Claude Code. Browse, install, and manage skills, commands, agents, and hooks.",
+   "kind": "registry",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": null
+  },
+  {
+   "repo_full_name": "Qsnh/skillsgist",
+   "path": null,
+   "stars": 6,
+   "description": "A private Agent Skills registry you self-host on Cloudflare.",
+   "kind": "registry",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "Bilal140202/the-lord-of-the-skills",
+   "path": null,
+   "stars": 5,
+   "description": "⚔ AI agent skills installer — 17,000+ skills for Claude Code, Cursor, Cline, Aider, Codex & Antigravity. pip install lotr-skills. cursor rules, claude code skills, SKILL.md, AGENTS.md.",
+   "kind": "registry",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "The-Utopia-Studio/skills",
+   "path": null,
+   "stars": 5,
+   "description": "AI skill marketplace for The Utopia Studio — four modules (GTM, Product, Investments, Founder Productivity). 301 skills for Claude Code, Cursor, and Agent Skills–compatible tools.",
+   "kind": "registry",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "latestaiagents/agent-skills",
+   "path": null,
+   "stars": 5,
+   "description": "Marketplace for AI agent skills and plugins - development, productivity, operations, marketing and beyond",
+   "kind": "registry",
+   "security_grade": "safe",
+   "language": null,
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "iflytek/skillhub",
+   "path": null,
+   "stars": 5142,
+   "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes.",
+   "kind": "team",
+   "security_grade": "safe",
+   "language": "Java",
+   "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "FrancyJGLisboa/agent-skill-creator",
+   "path": null,
+   "stars": 2400,
+   "description": "Build tested agent skills and govern their lifecycle through a user-defined marketplace: evidence, discovery, updates, rollback, quarantine, and 17-platform distribution.",
+   "kind": "team",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "FrancyJGLisboa/agent-skills-platform",
+   "path": null,
+   "stars": 2400,
+   "description": "Build tested agent skills and govern their lifecycle through a user-defined marketplace: evidence, discovery, updates, rollback, quarantine, and 17-platform distribution.",
+   "kind": "team",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "ginuim/skill-base",
+   "path": null,
+   "stars": 120,
+   "description": "Private Skill distribution platform for AI coding agents: publish, install, update, and rollback team skills across Cursor, Claude Code, Codex, and OpenClaw with a minimal server + skb CLI.",
+   "kind": "team",
+   "security_grade": "safe",
+   "language": "Vue",
+   "license": null
+  },
+  {
+   "repo_full_name": "a14a-org/claudeskill-manager",
+   "path": null,
+   "stars": 10,
+   "description": "Sync your Claude Code skills across devices with zero-knowledge encryption",
+   "kind": "team",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  }
+ ]
+}
