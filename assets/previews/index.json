@@ -1,0 +1,22 @@
+{
+ "eatmoreduck/SkillManager": {
+  "repo": "eatmoreduck/SkillManager",
+  "url": "https://raw.githubusercontent.com/eatmoreduck/SkillManager/HEAD/docs/screenshots/My%20Skills.png",
+  "alt": "My Skills",
+  "score": -0.25,
+  "type": "image/png",
+  "bytes": 1187714,
+  "file": "eatmoreduck__SkillManager.jpg",
+  "still": "eatmoreduck__SkillManager.jpg"
+ },
+ "yeasy/ask": {
+  "repo": "yeasy/ask",
+  "url": "https://raw.githubusercontent.com/yeasy/ask/HEAD/docs/images/skills.png",
+  "alt": "ASK Skills Manager",
+  "score": -0.3,
+  "type": "image/png",
+  "bytes": 496708,
+  "file": "yeasy__ask.jpg",
+  "still": "yeasy__ask.jpg"
+ }
+}
