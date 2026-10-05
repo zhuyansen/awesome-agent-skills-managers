@@ -9,6 +9,26 @@
   "file": "eatmoreduck__SkillManager.jpg",
   "still": "eatmoreduck__SkillManager.jpg"
  },
+ "luml-ai/AGENTS.lock": {
+  "repo": "luml-ai/AGENTS.lock",
+  "url": "https://raw.githubusercontent.com/Dataforce-Solutions/static_assets/main/luml-hero-light.png",
+  "alt": "Image",
+  "score": -2.55,
+  "type": "image/png",
+  "bytes": 351994,
+  "file": "luml-ai__AGENTS.lock.jpg",
+  "still": "luml-ai__AGENTS.lock.jpg"
+ },
+ "taito-project/taito": {
+  "repo": "taito-project/taito",
+  "url": "https://raw.githubusercontent.com/taito-project/.github/main/assets/taito-promo.gif",
+  "alt": "Preview",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 1834151,
+  "file": "taito-project__taito.gif",
+  "still": "taito-project__taito.jpg"
+ },
  "yeasy/ask": {
   "repo": "yeasy/ask",
   "url": "https://raw.githubusercontent.com/yeasy/ask/HEAD/docs/images/skills.png",
