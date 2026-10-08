@@ -1,4 +1,14 @@
 {
+ "Dimillian/CodexSkillManager": {
+  "repo": "Dimillian/CodexSkillManager",
+  "url": "https://raw.githubusercontent.com/Dimillian/CodexSkillManager/HEAD/image.png",
+  "alt": "image",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 962156,
+  "file": "Dimillian__CodexSkillManager.jpg",
+  "still": "Dimillian__CodexSkillManager.jpg"
+ },
  "eatmoreduck/SkillManager": {
   "repo": "eatmoreduck/SkillManager",
   "url": "https://raw.githubusercontent.com/eatmoreduck/SkillManager/HEAD/docs/screenshots/My%20Skills.png",
@@ -18,6 +28,16 @@
   "bytes": 351994,
   "file": "luml-ai__AGENTS.lock.jpg",
   "still": "luml-ai__AGENTS.lock.jpg"
+ },
+ "pr-pm/prpm": {
+  "repo": "pr-pm/prpm",
+  "url": "https://raw.githubusercontent.com/pr-pm/prpm/main/packages/webapp/public/demo.gif",
+  "alt": "demo",
+  "score": 4.95,
+  "type": "image/gif",
+  "bytes": 932997,
+  "file": "pr-pm__prpm.gif",
+  "still": "pr-pm__prpm.jpg"
  },
  "taito-project/taito": {
   "repo": "taito-project/taito",
