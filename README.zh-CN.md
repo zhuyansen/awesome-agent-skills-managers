@@ -23,6 +23,7 @@
 
 ## 目录
 
+- [🧪 端到端实测](#tested)
 - [🧱 综合管理](#type-general) (27)
 - [⌨️ 命令行安装](#type-cli) (54)
 - [🔄 多 Agent 同步](#type-sync) (9)
@@ -38,6 +39,32 @@
 4. 50 星及以上只看是否切题;50 星以下还要过 README 质量线(展示效果、一条命令上手、说清产出、文档完整),并且至少 5 星。
 
 这些问题由决策模型逐个读 README 回答,不是人工挑选。卡在线上的仓库可能判到任一边,归错了请提 issue。
+
+<a id="tested"></a>
+## 🧪 端到端实测
+
+2026-10-09 我们实跑了其中 16 个,12 个可以评判。每个在用完即删的沙箱里由 Claude Code (Claude Opus 5.5) 调用,做同一件事:装 20 个本地 skill,再装一个带 `curl | sh` 安装脚本的 skill,删到只剩 5 个,并把这 5 个同步给 Codex。每一步之后都测了磁盘上有什么、Claude Code 加载了多少 token。
+
+**发现:** 12 个里只有 1 个在风险 skill 面前停下(asm,默认不装);10 个没有任何警告就装了。上下文成本没有拉开差距:装 20 个 skill,每次会话多 345 到 396 个 token,用哪个工具都一样。
+
+| 工具 | ★ | 遇到带 curl \| sh 脚本的 skill | 能删干净 | 同步到 Codex | 20 个 skill 每次会话多占 token | |
+|---|---|---|---|---|---|---|
+| [asm](https://github.com/luongnv89/asm) | 952 | 警告,默认不装 | 能 | 能 | +345 | [证据](https://agentskillshub.top/best-runs/skillmgr/luongnv89__asm.html) |
+| [skillshare](https://github.com/runkids/skillshare) | 2,715 | 警告了,照装 | 能 | 能 | +382 | [证据](https://agentskillshub.top/best-runs/skillmgr/runkids__skillshare.html) |
+| [apm](https://github.com/microsoft/apm) | 3,954 | 只显示来源,照装 | 能 | 能 | +345 | [证据](https://agentskillshub.top/best-runs/skillmgr/microsoft__apm.html) |
+| [mcptoon](https://github.com/activeing123/mcptoon) | 214 | 只显示来源,照装 | 能 | 能 | +350 | [证据](https://agentskillshub.top/best-runs/skillmgr/activeing123__mcptoon.html) |
+| [kasetto](https://github.com/pivoshenko/kasetto) | 209 | 只显示来源,照装 | 能 | 能 | +345 | [证据](https://agentskillshub.top/best-runs/skillmgr/pivoshenko__kasetto.html) |
+| [agent-skills-cli](https://github.com/Karanjot786/agent-skills-cli) | 182 | 只显示来源,照装 | 能 | 能 | +345 | [证据](https://agentskillshub.top/best-runs/skillmgr/Karanjot786__agent-skills-cli.html) |
+| [skills-cli](https://github.com/dhruvwill/skills-cli) | 14 | 只显示来源,照装 | 能 | 能 | +345 | [证据](https://agentskillshub.top/best-runs/skillmgr/dhruvwill__skills-cli.html) |
+| [skillfile](https://github.com/eljulians/skillfile) | 173 | 只显示来源,照装 | 不能 | 能 | +349 | [证据](https://agentskillshub.top/best-runs/skillmgr/eljulians__skillfile.html) |
+| [ai-agent-skills](https://github.com/MoizIbnYousaf/ai-agent-skills) | 1,147 | 一声不吭就装了 | 能 | 能 | +345 | [证据](https://agentskillshub.top/best-runs/skillmgr/MoizIbnYousaf__ai-agent-skills.html) |
+| [skill-flow](https://github.com/VintLin/skill-flow) | 262 | 一声不吭就装了 | 能 | 只同步到已安装的 agent | +345 | [证据](https://agentskillshub.top/best-runs/skillmgr/VintLin__skill-flow.html) |
+| [skills-management](https://github.com/nnnggel/skills-management) | 128 | 一声不吭就装了 | 能 | 能 | +396 | [证据](https://agentskillshub.top/best-runs/skillmgr/nnnggel__skills-management.html) |
+| [agent-skill-sync](https://github.com/kina-cmd/agent-skill-sync) | 101 | 一声不吭就装了 | 不能 | 能 | +345 | [证据](https://agentskillshub.top/best-runs/skillmgr/kina-cmd__agent-skill-sync.html) |
+
+**跑了,但这轮实测评不了:** skillfish (只能从 GitHub（owner/repo）安装；测试 skill 是本地文件夹，所以安装、清理、同步都没测成。); skills-link (只能从 GitHub 地址添加 skill；测试 skill 是本地文件夹，所以安装、清理、同步都没测成。); capa (只装到项目目录（./.claude/skills），不装全局；它在项目里装好、清理并同步了，但我们的测量只看用户主目录。); skill-manager (不是安装工具：它是一个 skill，分析已装的 skill，并在 CLAUDE.md 里列出建议停用的。)
+
+[全部结果、提示词和脚本](https://github.com/zhuyansen/agent-skills-hub/blob/main/ops/skillmgr-runs/RESULTS.md) · [https://agentskillshub.top/best/skill-management-tools/#test-results](https://agentskillshub.top/best/skill-management-tools/?utm_source=github&utm_medium=awesome-list#test-results)
 
 <a id="type-general"></a>
 ## 🧱 综合管理

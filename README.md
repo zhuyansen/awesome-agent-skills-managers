@@ -23,6 +23,7 @@ Live page with filters: **[https://agentskillshub.top/best/skill-management-tool
 
 ## Contents
 
+- [🧪 Tested end to end](#tested)
 - [🧱 All-in-one Claude skills managers](#type-general) (27)
 - [⌨️ Claude skills CLI installers](#type-cli) (54)
 - [🔄 Claude skills sync across agents](#type-sync) (9)
@@ -38,6 +39,32 @@ Live page with filters: **[https://agentskillshub.top/best/skill-management-tool
 4. At 50 stars or more it is listed on topic alone. Under 50 it must also clear a README quality bar (shows it working, one-command start, a concrete outcome, complete docs), and have 5 stars.
 
 The questions are answered by a decision model reading each README, not by hand. A repo near a cut-off can land on either side; open an issue if one is misfiled.
+
+<a id="tested"></a>
+## 🧪 Tested end to end
+
+On 2026-10-09 we ran 16 of these tools; 12 could be judged. Each got the same job in a throwaway sandbox, driven by Claude Code (Claude Opus 5.5): install 20 local skills, install one more that ships a `curl | sh` setup script, remove all but five, and give those five to Codex. What is on disk and how many tokens Claude Code loads were measured after each step.
+
+**What we found:** only one of 12 stopped at the risky skill (asm, which declined by default); ten installed it with no warning. Context cost did not separate them: 345 to 396 more tokens per session for 20 skills, whatever the tool.
+
+| Tool | ★ | Skill with a curl \| sh script | Removes cleanly | Syncs to Codex | +tokens per session (20 skills) | |
+|---|---|---|---|---|---|---|
+| [asm](https://github.com/luongnv89/asm) | 952 | warned, not installed by default | yes | yes | +345 | [evidence](https://agentskillshub.top/best-runs/skillmgr/luongnv89__asm.html) |
+| [skillshare](https://github.com/runkids/skillshare) | 2,715 | warned, installed anyway | yes | yes | +382 | [evidence](https://agentskillshub.top/best-runs/skillmgr/runkids__skillshare.html) |
+| [apm](https://github.com/microsoft/apm) | 3,954 | showed the source only, installed | yes | yes | +345 | [evidence](https://agentskillshub.top/best-runs/skillmgr/microsoft__apm.html) |
+| [mcptoon](https://github.com/activeing123/mcptoon) | 214 | showed the source only, installed | yes | yes | +350 | [evidence](https://agentskillshub.top/best-runs/skillmgr/activeing123__mcptoon.html) |
+| [kasetto](https://github.com/pivoshenko/kasetto) | 209 | showed the source only, installed | yes | yes | +345 | [evidence](https://agentskillshub.top/best-runs/skillmgr/pivoshenko__kasetto.html) |
+| [agent-skills-cli](https://github.com/Karanjot786/agent-skills-cli) | 182 | showed the source only, installed | yes | yes | +345 | [evidence](https://agentskillshub.top/best-runs/skillmgr/Karanjot786__agent-skills-cli.html) |
+| [skills-cli](https://github.com/dhruvwill/skills-cli) | 14 | showed the source only, installed | yes | yes | +345 | [evidence](https://agentskillshub.top/best-runs/skillmgr/dhruvwill__skills-cli.html) |
+| [skillfile](https://github.com/eljulians/skillfile) | 173 | showed the source only, installed | no | yes | +349 | [evidence](https://agentskillshub.top/best-runs/skillmgr/eljulians__skillfile.html) |
+| [ai-agent-skills](https://github.com/MoizIbnYousaf/ai-agent-skills) | 1,147 | installed without a word | yes | yes | +345 | [evidence](https://agentskillshub.top/best-runs/skillmgr/MoizIbnYousaf__ai-agent-skills.html) |
+| [skill-flow](https://github.com/VintLin/skill-flow) | 262 | installed without a word | yes | only to installed agents | +345 | [evidence](https://agentskillshub.top/best-runs/skillmgr/VintLin__skill-flow.html) |
+| [skills-management](https://github.com/nnnggel/skills-management) | 128 | installed without a word | yes | yes | +396 | [evidence](https://agentskillshub.top/best-runs/skillmgr/nnnggel__skills-management.html) |
+| [agent-skill-sync](https://github.com/kina-cmd/agent-skill-sync) | 101 | installed without a word | no | yes | +345 | [evidence](https://agentskillshub.top/best-runs/skillmgr/kina-cmd__agent-skill-sync.html) |
+
+**Ran, but this test could not judge them:** skillfish (Installs only from GitHub (owner/repo); the test skills were local folders, so install, prune and sync were not tested.); skills-link (Adds skills only from GitHub URLs; the test skills were local folders, so install, prune and sync were not tested.); capa (Installs per project (./.claude/skills), never globally; it installed, pruned and synced the project copy, which the home-folder measurement does not see.); skill-manager (Not an installer: a skill that analyses installed skills and lists the ones to disable in CLAUDE.md.)
+
+[All results, prompts and scripts](https://github.com/zhuyansen/agent-skills-hub/blob/main/ops/skillmgr-runs/RESULTS.md) · [https://agentskillshub.top/best/skill-management-tools/#test-results](https://agentskillshub.top/best/skill-management-tools/?utm_source=github&utm_medium=awesome-list#test-results)
 
 <a id="type-general"></a>
 ## 🧱 All-in-one Claude skills managers
