@@ -9,6 +9,16 @@
   "file": "Dimillian__CodexSkillManager.jpg",
   "still": "Dimillian__CodexSkillManager.jpg"
  },
+ "activeloopai/hivemind": {
+  "repo": "activeloopai/hivemind",
+  "url": "https://raw.githubusercontent.com/activeloopai/hivemind/HEAD/docs/screenshots/codebase-graph.webp",
+  "alt": "Hivemind codebase graph visualizing the hivemind repo itself",
+  "score": -0.5,
+  "type": "image/webp",
+  "bytes": 1851528,
+  "file": "activeloopai__hivemind.jpg",
+  "still": "activeloopai__hivemind.jpg"
+ },
  "eatmoreduck/SkillManager": {
   "repo": "eatmoreduck/SkillManager",
   "url": "https://raw.githubusercontent.com/eatmoreduck/SkillManager/HEAD/docs/screenshots/My%20Skills.png",
