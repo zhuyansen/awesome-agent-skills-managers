@@ -12,4 +12,5 @@ authors and stay under the license of the project they come from. To have one re
 | `luml-ai__AGENTS.lock.jpg` | [luml-ai/AGENTS.lock](https://github.com/luml-ai/AGENTS.lock) | MIT | [source](https://raw.githubusercontent.com/Dataforce-Solutions/static_assets/main/luml-hero-light.png) |
 | `pr-pm__prpm.gif` | [pr-pm/prpm](https://github.com/pr-pm/prpm) | MIT | [source](https://raw.githubusercontent.com/pr-pm/prpm/main/packages/webapp/public/demo.gif) |
 | `taito-project__taito.gif` | [taito-project/taito](https://github.com/taito-project/taito) | MIT | [source](https://raw.githubusercontent.com/taito-project/.github/main/assets/taito-promo.gif) |
+| `tt-a1i__skillroster.jpg` | [tt-a1i/skillroster](https://github.com/tt-a1i/skillroster) | Apache-2.0 | [source](https://raw.githubusercontent.com/tt-a1i/skillroster/HEAD/docs/assets/skillroster-hero.png) |
 | `yeasy__ask.jpg` | [yeasy/ask](https://github.com/yeasy/ask) | MIT | [source](https://raw.githubusercontent.com/yeasy/ask/HEAD/docs/images/skills.png) |

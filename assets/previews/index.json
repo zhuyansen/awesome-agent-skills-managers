@@ -59,6 +59,16 @@
   "file": "taito-project__taito.gif",
   "still": "taito-project__taito.jpg"
  },
+ "tt-a1i/skillroster": {
+  "repo": "tt-a1i/skillroster",
+  "url": "https://raw.githubusercontent.com/tt-a1i/skillroster/HEAD/docs/assets/skillroster-hero.png",
+  "alt": "SkillRoster：一个能力库，为每个 Agent 配好合适的 Skills。Library 分别呈现 Codex、Claude Code、Pi 的精选 R",
+  "score": -0.5,
+  "type": "image/png",
+  "bytes": 2186080,
+  "file": "tt-a1i__skillroster.jpg",
+  "still": "tt-a1i__skillroster.jpg"
+ },
  "yeasy/ask": {
   "repo": "yeasy/ask",
   "url": "https://raw.githubusercontent.com/yeasy/ask/HEAD/docs/images/skills.png",
