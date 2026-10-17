@@ -39,6 +39,16 @@
   "file": "luml-ai__AGENTS.lock.jpg",
   "still": "luml-ai__AGENTS.lock.jpg"
  },
+ "neiii/bridle": {
+  "repo": "neiii/bridle",
+  "url": "https://raw.githubusercontent.com/neiii/bridle/HEAD/assets/bridle_header.png",
+  "alt": "Bridle",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 846588,
+  "file": "neiii__bridle.jpg",
+  "still": "neiii__bridle.jpg"
+ },
  "pr-pm/prpm": {
   "repo": "pr-pm/prpm",
   "url": "https://raw.githubusercontent.com/pr-pm/prpm/main/packages/webapp/public/demo.gif",
