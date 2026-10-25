@@ -29,6 +29,16 @@
   "file": "eatmoreduck__SkillManager.jpg",
   "still": "eatmoreduck__SkillManager.jpg"
  },
+ "klubinskak/skilldex": {
+  "repo": "klubinskak/skilldex",
+  "url": "https://raw.githubusercontent.com/klubinskak/skilldex/HEAD/docs/screenshots/hero.png",
+  "alt": "Skilldex dashboard",
+  "score": -2.5,
+  "type": "image/png",
+  "bytes": 574460,
+  "file": "klubinskak__skilldex.jpg",
+  "still": "klubinskak__skilldex.jpg"
+ },
  "luml-ai/AGENTS.lock": {
   "repo": "luml-ai/AGENTS.lock",
   "url": "https://raw.githubusercontent.com/Dataforce-Solutions/static_assets/main/luml-hero-light.png",
