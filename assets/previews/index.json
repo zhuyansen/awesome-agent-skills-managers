@@ -9,6 +9,16 @@
   "file": "Dimillian__CodexSkillManager.jpg",
   "still": "Dimillian__CodexSkillManager.jpg"
  },
+ "LLJ99999/jack-codex": {
+  "repo": "LLJ99999/jack-codex",
+  "url": "https://raw.githubusercontent.com/LLJ99999/jack-codex/HEAD/design-previews/jack-codex-react-final.png",
+  "alt": "Jack Codex 苹果式极简界面",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 101959,
+  "file": "LLJ99999__jack-codex.jpg",
+  "still": "LLJ99999__jack-codex.jpg"
+ },
  "activeloopai/hivemind": {
   "repo": "activeloopai/hivemind",
   "url": "https://raw.githubusercontent.com/activeloopai/hivemind/HEAD/docs/screenshots/codebase-graph.webp",
