@@ -101,8 +101,8 @@
 |---|---:|---|---|
 | [microsoft/apm](https://github.com/microsoft/apm) | 4.2k | Agent 包管理器 | [SAFE](https://agentskillshub.top/skill/microsoft/apm/) |
 | [runkids/skillshare](https://github.com/runkids/skillshare) | 2.9k | 统一管理 AI 编程配置、skills、agents、rules、MCP 连接和 hooks，支持桌面应用或 CLI。 | [SAFE](https://agentskillshub.top/skill/runkids/skillshare/) |
-| [infragate/capa](https://github.com/infragate/capa) | 721 | capabilities.yaml 将 skill、工具、规则、子 agent、MCP 服务和插件接入 Cursor、Claude Code、Codex 等3… | [SAFE](https://agentskillshub.top/skill/infragate/capa/) |
-| [RealZST/HarnessKit](https://github.com/RealZST/HarnessKit) | 482 | 不只是 skill 管理器：跨 AI coding agent 管理 skill、MCP servers、plugins、hooks、CLIs、configs… | [SAFE](https://agentskillshub.top/skill/RealZST/HarnessKit/) |
+| [infragate/capa](https://github.com/infragate/capa) | 713 | capabilities.yaml 将 skill、工具、规则、子 agent、MCP 服务和插件接入 Cursor、Claude Code、Codex 等3… | [SAFE](https://agentskillshub.top/skill/infragate/capa/) |
+| [RealZST/HarnessKit](https://github.com/RealZST/HarnessKit) | 483 | 不只是 skill 管理器：跨 AI coding agent 管理 skill、MCP servers、plugins、hooks、CLIs、configs… | [SAFE](https://agentskillshub.top/skill/RealZST/HarnessKit/) |
 | [neiii/bridle](https://github.com/neiii/bridle) | 442 | Agent 运行框架的 TUI/CLI 配置管理器（Amp、Claude Code、Opencode、Goose、Copilot CLI、Crush、Droi… | [SAFE](https://agentskillshub.top/skill/neiii/bridle/) |
 | [pivoshenko/kasetto](https://github.com/pivoshenko/kasetto) | 213 | 用 Rust 编写的声明式 AI agent 环境管理器 | [SAFE](https://agentskillshub.top/skill/pivoshenko/kasetto/) |
 | [sandbaseai/sandbase-skills](https://github.com/sandbaseai/sandbase-skills) | 206 | 88 个可安装的开源 Agent Skills，适用于研究、社交情报、营销和业务流程，兼容 Codex、Claude Code、Cursor、Gemini C… | [SAFE](https://agentskillshub.top/skill/sandbaseai/sandbase-skills/) |
@@ -145,17 +145,17 @@
 | [MoizIbnYousaf/ai-agent-skills](https://github.com/MoizIbnYousaf/ai-agent-skills) | 1.2k | AI 编程 agent 通用 skill 安装与包管理器。一条命令支持 12+ 个运行时。npx ai-agent-skills | [SAFE](https://agentskillshub.top/skill/MoizIbnYousaf/ai-agent-skills/) |
 | [pathintegral-institute/mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh) | 1.0k | CLI MCP 包管理器与注册中心，支持所有平台和客户端。搜索并配置 MCP servers，提供高级 Router 与 Profile 功能。 | [SAFE](https://agentskillshub.top/skill/pathintegral-institute/mcpm.sh/) |
 | [luongnv89/asm](https://github.com/luongnv89/asm) | 965 | AI 编程 agent 的通用 skill 管理器。 | [SAFE](https://agentskillshub.top/skill/luongnv89/asm/) |
-| [activeing123/mcptoon](https://github.com/activeing123/mcptoon) | 420 | 零依赖 CLI：管理 MCP server 和 agent skill，优化 token、工具发现与上下文压缩。 | [SAFE](https://agentskillshub.top/skill/activeing123/mcptoon/) |
-| [knoxgraeme/skillfish](https://github.com/knoxgraeme/skillfish) | 330 | AI 编程 agent 的 skill 管理器，跨 Claude Code、Cursor、Copilot 等安装、更新和同步 skill。 | [SAFE](https://agentskillshub.top/skill/knoxgraeme/skillfish/) |
+| [activeing123/mcptoon](https://github.com/activeing123/mcptoon) | 422 | 零依赖 CLI：管理 MCP server 和 agent skill，优化 token、工具发现与上下文压缩。 | [SAFE](https://agentskillshub.top/skill/activeing123/mcptoon/) |
+| [knoxgraeme/skillfish](https://github.com/knoxgraeme/skillfish) | 329 | AI 编程 agent 的 skill 管理器，跨 Claude Code、Cursor、Copilot 等安装、更新和同步 skill。 | [SAFE](https://agentskillshub.top/skill/knoxgraeme/skillfish/) |
 | [VintLin/skill-flow](https://github.com/VintLin/skill-flow) | 264 | 安装、管理并在 Claude Code、Cursor、Copilot 等编码 agent 间共享 skill。 | [SAFE](https://agentskillshub.top/skill/VintLin/skill-flow/) |
-| [shenysun/skills-manager](https://github.com/shenysun/skills-manager) | 227 | Skills Manager：从对话管理 agent skill，支持安装、导入、分发、更新和补全来源信息；适用于 Claude Code、Codex、Cur… | [SAFE](https://agentskillshub.top/skill/shenysun/skills-manager/) |
+| [shenysun/skills-manager](https://github.com/shenysun/skills-manager) | 237 | Skills Manager：从对话管理 agent skill，支持安装、导入、分发、更新和补全来源信息；适用于 Claude Code、Codex、Cur… | [SAFE](https://agentskillshub.top/skill/shenysun/skills-manager/) |
 | [Karanjot786/agent-skills-cli](https://github.com/Karanjot786/agent-skills-cli) | 194 | Agent Skills 通用 CLI：从 SkillsMP 获取并同步到 Cursor、Claude Code、GitHub Copilot、OpenAI… | [SAFE](https://agentskillshub.top/skill/Karanjot786/agent-skills-cli/) |
 | [eljulians/skillfile](https://github.com/eljulians/skillfile) | 179 | 搜索 110K+ 社区 skills，以声明式方式安装和跟踪，并部署到 Claude Code、Codex、Cursor、Antigravity 等 AI 编… | [SAFE](https://agentskillshub.top/skill/eljulians/skillfile/) |
 | [LobsterTrap/lola](https://github.com/LobsterTrap/lola) | 132 | Lola 可将 AI Context Modules 或 skill 打包，供多个 AI 助手使用。编写一次 skill，到处运行。 | [SAFE](https://agentskillshub.top/skill/LobsterTrap/lola/) |
 | [Soul-Brews-Studio/arra-oracle-skills-cli](https://github.com/Soul-Brews-Studio/arra-oracle-skills-cli) | 125 | 将 Oracle skills 安装到 Claude Code、OpenCode、Cursor 和 12+ 个 AI 编程代理 | [SAFE](https://agentskillshub.top/skill/Soul-Brews-Studio/arra-oracle-skills-cli/) |
-| [jacob-bd/universal-skills-manager](https://github.com/jacob-bd/universal-skills-manager) | 114 | AI 编程助手技能管理器：从 SkillsMP.com、SkillHub 和 ClawHub 发现、安装、同步 skill，支持 12 种 AI 工具及安全扫… | [SAFE](https://agentskillshub.top/skill/jacob-bd/universal-skills-manager/) |
+| [jacob-bd/universal-skills-manager](https://github.com/jacob-bd/universal-skills-manager) | 115 | AI 编程助手技能管理器：从 SkillsMP.com、SkillHub 和 ClawHub 发现、安装、同步 skill，支持 12 种 AI 工具及安全扫… | [SAFE](https://agentskillshub.top/skill/jacob-bd/universal-skills-manager/) |
 | [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft) | 97 | AI agent 的 skill 管理器；每次安装执行安全扫描，管理 87 个 agent 的 skill 和 MCP servers；零依赖 CLI。 | [SAFE](https://agentskillshub.top/skill/rolecraft-sh/rolecraft/) |
-| [spences10/mcpick](https://github.com/spences10/mcpick) | 96 | 跨供应商 MCP 配置管理器：用一个 CLI 管理所有 AI 客户端中的 MCP 服务器和 skill，支持添加、切换和审计，内置安全机制 | [SAFE](https://agentskillshub.top/skill/spences10/mcpick/) |
+| [spences10/mcpick](https://github.com/spences10/mcpick) | 97 | 跨供应商 MCP 配置管理器：用一个 CLI 管理所有 AI 客户端中的 MCP 服务器和 skill，支持添加、切换和审计，内置安全机制 | [SAFE](https://agentskillshub.top/skill/spences10/mcpick/) |
 | [arkylab/aspm](https://github.com/arkylab/aspm) | 83 | 面向 AI 辅助开发的 Git 包管理器，类似 npm，支持 skills、agents、commands、hooks 等 AI 资源类型。 | [SAFE](https://agentskillshub.top/skill/arkylab/aspm/) |
 | [reorx/skm](https://github.com/reorx/skm) | 78 | 更好的 skill 管理器 | [SAFE](https://agentskillshub.top/skill/reorx/skm/) |
 | [Autoloops/upskill](https://github.com/Autoloops/upskill) | 68 | Autoloops upskill 注册表的 CLI 和 skill，在终端搜索、检查、报告和发布 agent skill | [SAFE](https://agentskillshub.top/skill/Autoloops/upskill/) |
@@ -208,7 +208,7 @@
 | [activeloopai/hivemind](https://github.com/activeloopai/hivemind) | 1.6k | Hivemind 将 traces 转化为可供多个 agent 复用的 skill | [SAFE](https://agentskillshub.top/skill/activeloopai/hivemind/) |
 | [shanliuling/skills-link](https://github.com/shanliuling/skills-link) | 188 | 用一条命令在 41+ 个 AI coding agent 间同步本地 skill。 | [SAFE](https://agentskillshub.top/skill/shanliuling/skills-link/) |
 | [nnnggel/skills-management](https://github.com/nnnggel/skills-management) | 127 | 管理和同步 AI coding agent skills 的 CLI 工具 | [SAFE](https://agentskillshub.top/skill/nnnggel/skills-management/) |
-| [kina-cmd/agent-skill-sync](https://github.com/kina-cmd/agent-skill-sync) | 98 | 扫描、分类（A/B/C/D）并同步 Codex、Claude Code、WorkBuddy 的 AI-agent SKILL.md 文件。零依赖 Python… | [SAFE](https://agentskillshub.top/skill/kina-cmd/agent-skill-sync/) |
+| [kina-cmd/agent-skill-sync](https://github.com/kina-cmd/agent-skill-sync) | 97 | 扫描、分类（A/B/C/D）并同步 Codex、Claude Code、WorkBuddy 的 AI-agent SKILL.md 文件。零依赖 Python… | [SAFE](https://agentskillshub.top/skill/kina-cmd/agent-skill-sync/) |
 | [luna-prompts/skillnote](https://github.com/luna-prompts/skillnote) | 68 | 面向 AI 编程 agent 的开源 skill 注册中心，跨 Openclaw、Claude Code、Cursor、Codex、OpenHands、Ant… | [SAFE](https://agentskillshub.top/skill/luna-prompts/skillnote/) |
 | [huangrichao2020/pretty-skills](https://github.com/huangrichao2020/pretty-skills) | 55 | 跨 agent 的 skill 管理与推广工具，支持管理 skill、创建附带 PDF 或 PPT 讲解的 skill，支持各种 Agent。 | [SAFE](https://agentskillshub.top/skill/huangrichao2020/pretty-skills/) |
 | [dhruvwill/skills-cli](https://github.com/dhruvwill/skills-cli) | 14 | 用一条命令在所有 agent 工具间同步 AI agent skill | [SAFE](https://agentskillshub.top/skill/dhruvwill/skills-cli/) |
@@ -230,20 +230,20 @@
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
 | [HKUDS/AgentPilot](https://github.com/HKUDS/AgentPilot) | 7.8k | OpenSpace：AI agent 的 skill 管理层 | [SAFE](https://agentskillshub.top/skill/HKUDS/AgentPilot/) |
-| [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager) | 7.2k | 轻量桌面应用，用于管理、同步和整理 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等 50 多种编程工具中的 AI… | [SAFE](https://agentskillshub.top/skill/xingkongliang/skills-manager/) |
+| [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager) | 7.3k | 轻量桌面应用，用于管理、同步和整理 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等 50 多种编程工具中的 AI… | [SAFE](https://agentskillshub.top/skill/xingkongliang/skills-manager/) |
 | [Shpigford/chops](https://github.com/Shpigford/chops) | 2.1k | macOS 应用，用于浏览、编辑和管理 Claude Code、Cursor、Codex、Windsurf 和 Amp 的 skill。 | [SAFE](https://agentskillshub.top/skill/Shpigford/chops/) |
 | [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub) | 1.9k | 跨平台桌面应用，集中管理 Agent Skills，并同步到多个 AI 编程工具的全局 skills 目录 | [SAFE](https://agentskillshub.top/skill/qufei1993/skills-hub/) |
 | [skillsgate/skillsgate](https://github.com/skillsgate/skillsgate) | 1.4k | macOS≤0.7.0请手动更新：升级器可能无法重启且架构错误。0.7.2下载对应DMG：Apple Silicon选arm64，Intel选.dmg，将Sk… | [SAFE](https://agentskillshub.top/skill/skillsgate/skillsgate/) |
 | [Dimillian/CodexSkillManager](https://github.com/Dimillian/CodexSkillManager) | 1.4k | 用于管理 Codex skills 的 macOS 应用 | [SAFE](https://agentskillshub.top/skill/Dimillian/CodexSkillManager/) |
-| [skillhub-club/skillhub-desktop](https://github.com/skillhub-club/skillhub-desktop) | 604 | One desktop to manage your agent skills | [SAFE](https://agentskillshub.top/skill/skillhub-club/skillhub-desktop/) |
-| [buzhangsan/skills-manager-client](https://github.com/buzhangsan/skills-manager-client) | 504 | Skill Manager：管理 Claude Code Skills 的桌面应用，支持浏览、安装、导入和安全扫描。 | [SAFE](https://agentskillshub.top/skill/buzhangsan/skills-manager-client/) |
-| [MichengAI/dsh-skills-manager](https://github.com/MichengAI/dsh-skills-manager) | 464 | DSH Skills Manager：在 DeepSeek Harness 中加载并安全管理本机 Agent Skills | [SAFE](https://agentskillshub.top/skill/MichengAI/dsh-skills-manager/) |
+| [skillhub-club/skillhub-desktop](https://github.com/skillhub-club/skillhub-desktop) | 605 | One desktop to manage your agent skills | [SAFE](https://agentskillshub.top/skill/skillhub-club/skillhub-desktop/) |
+| [buzhangsan/skills-manager-client](https://github.com/buzhangsan/skills-manager-client) | 503 | Skill Manager：管理 Claude Code Skills 的桌面应用，支持浏览、安装、导入和安全扫描。 | [SAFE](https://agentskillshub.top/skill/buzhangsan/skills-manager-client/) |
+| [MichengAI/dsh-skills-manager](https://github.com/MichengAI/dsh-skills-manager) | 480 | DSH Skills Manager：在 DeepSeek Harness 中加载并安全管理本机 Agent Skills | [SAFE](https://agentskillshub.top/skill/MichengAI/dsh-skills-manager/) |
 | [yibie/skills-manager](https://github.com/yibie/skills-manager) | 463 | 用于在 Claude Code、Cursor、Copilot CLI、Codex、Gemini CLI 等编程 agent 间管理 skill 的原生 mac… | [SAFE](https://agentskillshub.top/skill/yibie/skills-manager/) |
-| [bruc3van/agent-skills-guard](https://github.com/bruc3van/agent-skills-guard) | 391 | 用于 Agent Skills 安全扫描和可视化管理的桌面应用 | [SAFE](https://agentskillshub.top/skill/bruc3van/agent-skills-guard/) |
-| [alvinunreal/lazyskills](https://github.com/alvinunreal/lazyskills) | 336 | agent 技能任务控制中心 | [SAFE](https://agentskillshub.top/skill/alvinunreal/lazyskills/) |
-| [what1f/kitter](https://github.com/what1f/kitter) | 307 | 用 Rust 构建的轻量 Skill 管理器。一个库，仅包含各项目所需的 Skills。 | [SAFE](https://agentskillshub.top/skill/what1f/kitter/) |
+| [bruc3van/agent-skills-guard](https://github.com/bruc3van/agent-skills-guard) | 392 | 用于 Agent Skills 安全扫描和可视化管理的桌面应用 | [SAFE](https://agentskillshub.top/skill/bruc3van/agent-skills-guard/) |
+| [alvinunreal/lazyskills](https://github.com/alvinunreal/lazyskills) | 335 | agent 技能任务控制中心 | [SAFE](https://agentskillshub.top/skill/alvinunreal/lazyskills/) |
+| [what1f/kitter](https://github.com/what1f/kitter) | 305 | 用 Rust 构建的轻量 Skill 管理器。一个库，仅包含各项目所需的 Skills。 | [SAFE](https://agentskillshub.top/skill/what1f/kitter/) |
 | [chrlsio/agent-skills](https://github.com/chrlsio/agent-skills) | 299 | 跨平台桌面应用，用于浏览、同步和管理 Claude Code、Cursor、Gemini CLI、Copilot 等平台的 AI agent skill。 | [SAFE](https://agentskillshub.top/skill/chrlsio/agent-skills/) |
-| [tddworks/SkillsManager](https://github.com/tddworks/SkillsManager) | 205 | 用于发现、浏览和安装 AI 编程助手 skill 的 macOS 应用，管理 Claude Code 和 Codex 的 skill。 | [SAFE](https://agentskillshub.top/skill/tddworks/SkillsManager/) |
+| [tddworks/SkillsManager](https://github.com/tddworks/SkillsManager) | 206 | 用于发现、浏览和安装 AI 编程助手 skill 的 macOS 应用，管理 Claude Code 和 Codex 的 skill。 | [SAFE](https://agentskillshub.top/skill/tddworks/SkillsManager/) |
 | [scottcwy/skill-kits](https://github.com/scottcwy/skill-kits) | 202 | Skill-kits 是适用于任意 LLM 和多智能体工作流的单二进制 AI Agent Skills 管理工具。 | [SAFE](https://agentskillshub.top/skill/scottcwy/skill-kits/) |
 | [Rito-w/skills-manager](https://github.com/Rito-w/skills-manager) | 197 | 面向 AI IDE 的跨平台 skill 管理器。搜索 marketplace、本地下载并一键安装到 Claude、Cursor、Windsurf 等。 | [SAFE](https://agentskillshub.top/skill/Rito-w/skills-manager/) |
 | [khendzel/skills-janitor](https://github.com/khendzel/skills-janitor) | 125 | 清理 Claude Code 的 skill、subagent、MCP：移除浪费上下文内容、检测提示注入、显示 token 成本并修复删除。支持 Codex。 | [SAFE](https://agentskillshub.top/skill/khendzel/skills-janitor/) |
@@ -253,7 +253,7 @@
 | [cchao123/skills-manager](https://github.com/cchao123/skills-manager) | 73 | AI agent skill 的包管理器，支持跨 agent 共享、同步和部署。 | [SAFE](https://agentskillshub.top/skill/cchao123/skills-manager/) |
 | [zunalabs/skills-manager](https://github.com/zunalabs/skills-manager) | 73 | 用于管理各主流 coding agent 的 AI agent skill 的桌面应用。 | [SAFE](https://agentskillshub.top/skill/zunalabs/skills-manager/) |
 | [youzaiAGI/agent-skills-hub](https://github.com/youzaiAGI/agent-skills-hub) | 71 | 技能包管理 | [SAFE](https://agentskillshub.top/skill/youzaiAGI/agent-skills-hub/) |
-| [robotbird/skillkit](https://github.com/robotbird/skillkit) | 67 | AI agent 技能管理器 | [CAUTION](https://agentskillshub.top/skill/robotbird/skillkit/) |
+| [robotbird/skillkit](https://github.com/robotbird/skillkit) | 68 | AI agent 技能管理器 | [CAUTION](https://agentskillshub.top/skill/robotbird/skillkit/) |
 | [Milktang0128/myskills](https://github.com/Milktang0128/myskills) | 61 | AI Skill Hub——桌面应用，用于发现、去重、整理和同步 Claude Code、Codex 的 skill 与共享库；提供 MCP server，支… | [SAFE](https://agentskillshub.top/skill/Milktang0128/myskills/) |
 | [ryderme/skill-manager](https://github.com/ryderme/skill-manager) | 56 | Skill Manager：通过符号链接管理 Claude Code、Codex、Cursor、OpenClaw 等工具的 skill。 | [SAFE](https://agentskillshub.top/skill/ryderme/skill-manager/) |
 | [asteroid-belt/skulto](https://github.com/asteroid-belt/skulto) | 51 | 离线且以安全为先的 agent skill 同步与管理工具 | [SAFE](https://agentskillshub.top/skill/asteroid-belt/skulto/) |
@@ -289,9 +289,9 @@
 | [jeremylongshore/tons-of-skills-marketplace](https://github.com/jeremylongshore/tons-of-skills-marketplace) | 2.9k | 模型无关的 agent-skills 平台，提供无 harness 的规范层、经验证的适配器和 ccpi 包管理器。 | [SAFE](https://agentskillshub.top/skill/jeremylongshore/tons-of-skills-marketplace/) |
 | [daymade/claude-code-skills](https://github.com/daymade/claude-code-skills) | 1.5k | Claude Code skills 市场，提供开发流程所需的 skills。 | [SAFE](https://agentskillshub.top/skill/daymade/claude-code-skills/) |
 | [binance/binance-skills-hub](https://github.com/binance/binance-skills-hub) | 1.1k | Binance Skills Hub 是技能市场，为 AI agent 提供原生加密货币访问能力 | [SAFE](https://agentskillshub.top/skill/binance/binance-skills-hub/) |
-| [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) | 691 | Claude Code 的软件工程工作流 skill：Git 自动化、测试和代码审查 | [SAFE](https://agentskillshub.top/skill/mhattingpete/claude-skills-marketplace/) |
-| [zhuyansen/agent-skills-hub](https://github.com/zhuyansen/agent-skills-hub) | 489 | 发现并比较开源 Agent Skills、工具和 MCP 服务器，提供质量评分、趋势分析和自动 GitHub 同步 | [SAFE](https://agentskillshub.top/skill/zhuyansen/agent-skills-hub/) |
-| [Leon-Drq/openagentskill](https://github.com/Leon-Drq/openagentskill) | 366 | AI agent 的 skill 层：AI Agent Skills 的 npm。 | [SAFE](https://agentskillshub.top/skill/Leon-Drq/openagentskill/) |
+| [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) | 692 | Claude Code 的软件工程工作流 skill：Git 自动化、测试和代码审查 | [SAFE](https://agentskillshub.top/skill/mhattingpete/claude-skills-marketplace/) |
+| [zhuyansen/agent-skills-hub](https://github.com/zhuyansen/agent-skills-hub) | 492 | 发现并比较开源 Agent Skills、工具和 MCP 服务器，提供质量评分、趋势分析和自动 GitHub 同步 | [SAFE](https://agentskillshub.top/skill/zhuyansen/agent-skills-hub/) |
+| [Leon-Drq/openagentskill](https://github.com/Leon-Drq/openagentskill) | 367 | AI agent 的 skill 层：AI Agent Skills 的 npm。 | [SAFE](https://agentskillshub.top/skill/Leon-Drq/openagentskill/) |
 | [buzhangsan/skill-manager](https://github.com/buzhangsan/skill-manager) | 322 | Skill Manager：从 GitHub 搜索、浏览并安装社区 skill，供 AI agent 使用 | [SAFE](https://agentskillshub.top/skill/buzhangsan/skill-manager/) |
 | [modu-ai/cowork-plugins](https://github.com/modu-ai/cowork-plugins) | 315 | MoAI：Claude Cowork、Claude Code 的韩国实务 AI harness/插件市场，含 skill、agent、工作流及 AI-slop… | [SAFE](https://agentskillshub.top/skill/modu-ai/cowork-plugins/) |
 | [PramodDutta/qaskills](https://github.com/PramodDutta/qaskills) | 244 | QA Skills 目录：面向 AI 编程 agent 的测试专用 skill（Claude Code、Cursor、Copilot 等）。 | [SAFE](https://agentskillshub.top/skill/PramodDutta/qaskills/) |
@@ -302,15 +302,15 @@
 | [agent-skills-hub/agent-skills-hub](https://github.com/agent-skills-hub/agent-skills-hub) | 127 | AI agent 技能库，适用于 OpenClaw、Claude Code、Gemini、Cursor、Antigravity 等平台。 | [SAFE](https://agentskillshub.top/skill/agent-skills-hub/agent-skills-hub/) |
 | [obie/skills](https://github.com/obie/skills) | 101 | Claude Code skill 市场：用于开发工作流的 skill | [SAFE](https://agentskillshub.top/skill/obie/skills/) |
 | [existential-birds/beagle](https://github.com/existential-birds/beagle) | 85 | Agent Skills：多语言/框架代码审查、文档、测试计划、AI写作检测、架构分析、Git工作流，支持 Claude Code、Codex 等 agent | [SAFE](https://agentskillshub.top/skill/existential-birds/beagle/) |
-| [zeroclaw-labs/zeroclaw-skills](https://github.com/zeroclaw-labs/zeroclaw-skills) | 66 | ZeroClaw 官方 skill 注册库：社区贡献的 AI agent skill、工具和工作流 | [SAFE](https://agentskillshub.top/skill/zeroclaw-labs/zeroclaw-skills/) |
 | [ComeOnOliver/skillshub](https://github.com/ComeOnOliver/skillshub) | 65 | 一次 API 调用解析 skill。AI agent skill 注册表，节省 token，收录来自 500+ 个仓库的 5,000+ 个 skill。 | [SAFE](https://agentskillshub.top/skill/ComeOnOliver/skillshub/) |
+| [zeroclaw-labs/zeroclaw-skills](https://github.com/zeroclaw-labs/zeroclaw-skills) | 65 | ZeroClaw 官方 skill 注册库：社区贡献的 AI agent skill、工具和工作流 | [SAFE](https://agentskillshub.top/skill/zeroclaw-labs/zeroclaw-skills/) |
 | [modelstudioai/skills](https://github.com/modelstudioai/skills) | 59 | ModelStudio 驱动的精选、经验证的 Agent Skills。 | [SAFE](https://agentskillshub.top/skill/modelstudioai/skills/) |
 | [c-kick/hnl-agent-skills](https://github.com/c-kick/hnl-agent-skills) | 56 | 适用于 Claude Code 和 Codex 的可复用 agent skill 注册库 | [SAFE](https://agentskillshub.top/skill/c-kick/hnl-agent-skills/) |
 | [skilluse/skilluse](https://github.com/skilluse/skilluse) | 55 | Agent skill 注册表与 CLI | [SAFE](https://agentskillshub.top/skill/skilluse/skilluse/) |
 | [AmadeusITGroup/ai-primitives-hub](https://github.com/AmadeusITGroup/ai-primitives-hub) | 51 | 管理、分享、安装 GitHub Copilot 等 AI 助手的 Agents、Skills、Prompts、Instructions、MCP 集合的 VS… | [SAFE](https://agentskillshub.top/skill/AmadeusITGroup/ai-primitives-hub/) |
 | [Qsnh/skillsgist](https://github.com/Qsnh/skillsgist) | 49 | 可在 Cloudflare 上自行托管的私有 Agent Skills 注册中心。 | [SAFE](https://agentskillshub.top/skill/Qsnh/skillsgist/) |
 | [codebygarv/Ai-skills](https://github.com/codebygarv/Ai-skills) | 27 | 社区AI agent skill目录：Claude Code、Antigravity、Cursor Ai、kimi、deepseek、Mimo；npx安装。 | [SAFE](https://agentskillshub.top/skill/codebygarv/Ai-skills/) |
-| [nikships/skills-registry](https://github.com/nikships/skills-registry) | 26 | 你的 AI Agent Skills GitHub 注册表。一个仓库，适用于每个 agent 和设备，按需加载。 | [SAFE](https://agentskillshub.top/skill/nikships/skills-registry/) |
+| [nikships/skills-registry](https://github.com/nikships/skills-registry) | 25 | 你的 AI Agent Skills GitHub 注册表。一个仓库，适用于每个 agent 和设备，按需加载。 | [SAFE](https://agentskillshub.top/skill/nikships/skills-registry/) |
 | [kevinnft/ai-agent-skills](https://github.com/kevinnft/ai-agent-skills) | 14 | 191 个面向 Hermes Agent、Claude Code、Cursor 的署名优先 skill：一个安装器、28 个分类、可搜索目录。上游署名见 NO… | [SAFE](https://agentskillshub.top/skill/kevinnft/ai-agent-skills/) |
 | [gavinyao/skill-registry-manager](https://github.com/gavinyao/skill-registry-manager) | 10 | Claude Code skill 注册表管理工具，支持 YAML、远程/本地订阅、递归加载及 npx、git、本地复制安装。 | [SAFE](https://agentskillshub.top/skill/gavinyao/skill-registry-manager/) |
 | [cobibean/shared-skills-registry-mcp](https://github.com/cobibean/shared-skills-registry-mcp) | 8 | 用于可复用 AI-agent skill 的自托管注册表、仪表板和 MCP 接口。 | [SAFE](https://agentskillshub.top/skill/cobibean/shared-skills-registry-mcp/) |
@@ -347,4 +347,4 @@
 
 ---
 
-机器可读版本:[`data/skills.json`](data/skills.json)。生成于 2026-11-04。
+机器可读版本:[`data/skills.json`](data/skills.json)。生成于 2026-11-05。
