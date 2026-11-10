@@ -2,7 +2,7 @@
 
 [中文](README.zh-CN.md)
 
-Open-source tools to **find, install, sync and organize agent skills** across Claude Code, Codex, Cursor and other coding agents: CLI installers, desktop apps, registries, team tools. 183 repos, each one read and security-graded by [Agent Skills Hub (agentskillshub.top)](https://agentskillshub.top).
+Open-source tools to **find, install, sync and organize agent skills** across Claude Code, Codex, Cursor and other coding agents: CLI installers, desktop apps, registries, team tools. 184 repos, each one read and security-graded by [Agent Skills Hub (agentskillshub.top)](https://agentskillshub.top).
 
 Live page with filters: **[https://agentskillshub.top/best/skill-management-tools/](https://agentskillshub.top/best/skill-management-tools/)** · refreshed every 8 hours
 
@@ -29,7 +29,7 @@ Whichever you pick: 12 of 14 installed a skill with a curl | sh script without s
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><b>🧱 All-in-one Claude skills managers</b><br><sub>31 repos</sub><br><br><a href="https://github.com/pr-pm/prpm"><img src="assets/previews/pr-pm__prpm.gif" width="260" alt="pr-pm/prpm"></a><br><sub>Managers of whole agent setups: skills, MCP servers, prompts and settings.</sub><br><a href="#type-general"><b>View the list →</b></a></td>
-<td align="center" valign="top" width="33%"><b>⌨️ Claude skills CLI installers</b><br><sub>55 repos</sub><br><br><a href="https://github.com/taito-project/taito"><img src="assets/previews/taito-project__taito.gif" width="260" alt="taito-project/taito"></a><br><sub>Add, remove and update skills from a terminal.</sub><br><a href="#type-cli"><b>View the list →</b></a></td>
+<td align="center" valign="top" width="33%"><b>⌨️ Claude skills CLI installers</b><br><sub>56 repos</sub><br><br><a href="https://github.com/taito-project/taito"><img src="assets/previews/taito-project__taito.gif" width="260" alt="taito-project/taito"></a><br><sub>Add, remove and update skills from a terminal.</sub><br><a href="#type-cli"><b>View the list →</b></a></td>
 <td align="center" valign="top" width="33%"><b>🔄 Claude skills sync across agents</b><br><sub>10 repos</sub><br><br><a href="https://github.com/activeloopai/hivemind"><img src="assets/previews/activeloopai__hivemind.jpg" width="260" alt="activeloopai/hivemind"></a><br><sub>One skill folder shared by several agents or machines.</sub><br><a href="#type-sync"><b>View the list →</b></a></td>
 </tr>
 <tr>
@@ -43,7 +43,7 @@ Whichever you pick: 12 of 14 installed a skill with a curl | sh script without s
 
 - [🧪 Tested end to end](#tested)
 - [🧱 All-in-one Claude skills managers](#type-general) (31)
-- [⌨️ Claude skills CLI installers](#type-cli) (55)
+- [⌨️ Claude skills CLI installers](#type-cli) (56)
 - [🔄 Claude skills sync across agents](#type-sync) (10)
 - [🖥 Claude skills manager apps](#type-app) (46)
 - [🔎 Claude skills registries & marketplaces](#type-registry) (36)
@@ -101,11 +101,11 @@ On 2026-10-09 we ran 16 of these tools; 14 could be judged. Each got the same jo
 |---|---:|---|---|
 | [microsoft/apm](https://github.com/microsoft/apm) | 4.3k | Agent Package Manager | [SAFE](https://agentskillshub.top/skill/microsoft/apm/) |
 | [runkids/skillshare](https://github.com/runkids/skillshare) | 3.0k | 📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing. | [SAFE](https://agentskillshub.top/skill/runkids/skillshare/) |
-| [infragate/capa](https://github.com/infragate/capa) | 743 | One capabilities.yaml wires skills, tools, rules, sub-agents, MCP servers, and plugins into Cursor, Claude Code, Codex, Windsurf, GitHub Copilot, and… | [SAFE](https://agentskillshub.top/skill/infragate/capa/) |
-| [RealZST/HarnessKit](https://github.com/RealZST/HarnessKit) | 485 | More than a skill manager — manage skills, MCP servers, plugins, hooks, CLIs, configs, memory & rules across every AI coding agent. 🌟 Star if you lik… | [SAFE](https://agentskillshub.top/skill/RealZST/HarnessKit/) |
-| [neiii/bridle](https://github.com/neiii/bridle) | 442 | TUI / CLI config manager for agentic harnesses (Amp, Claude Code, Opencode, Goose, Copilot CLI, Crush, Droid) | [SAFE](https://agentskillshub.top/skill/neiii/bridle/) |
+| [infragate/capa](https://github.com/infragate/capa) | 744 | One capabilities.yaml wires skills, tools, rules, sub-agents, MCP servers, and plugins into Cursor, Claude Code, Codex, Windsurf, GitHub Copilot, and… | [SAFE](https://agentskillshub.top/skill/infragate/capa/) |
+| [RealZST/HarnessKit](https://github.com/RealZST/HarnessKit) | 488 | More than a skill manager — manage skills, MCP servers, plugins, hooks, CLIs, configs, memory & rules across every AI coding agent. 🌟 Star if you lik… | [SAFE](https://agentskillshub.top/skill/RealZST/HarnessKit/) |
+| [neiii/bridle](https://github.com/neiii/bridle) | 443 | TUI / CLI config manager for agentic harnesses (Amp, Claude Code, Opencode, Goose, Copilot CLI, Crush, Droid) | [SAFE](https://agentskillshub.top/skill/neiii/bridle/) |
 | [pivoshenko/kasetto](https://github.com/pivoshenko/kasetto) | 216 | 📼 Declarative AI agent environment manager, written in Rust | [SAFE](https://agentskillshub.top/skill/pivoshenko/kasetto/) |
-| [sandbaseai/sandbase-skills](https://github.com/sandbaseai/sandbase-skills) | 209 | 88 installable open-source Agent Skills for research, social intelligence, marketing, and business workflows—compatible with Codex, Claude Code, Curs… | [SAFE](https://agentskillshub.top/skill/sandbaseai/sandbase-skills/) |
+| [sandbaseai/sandbase-skills](https://github.com/sandbaseai/sandbase-skills) | 210 | 88 installable open-source Agent Skills for research, social intelligence, marketing, and business workflows—compatible with Codex, Claude Code, Curs… | [SAFE](https://agentskillshub.top/skill/sandbaseai/sandbase-skills/) |
 | [pr-pm/prpm](https://github.com/pr-pm/prpm) | 124 | The universal registry for AI coding tools | [SAFE](https://agentskillshub.top/skill/pr-pm/prpm/) |
 | [vanillagreencom/kendex](https://github.com/vanillagreencom/kendex) | 92 | Package manager for agents, skills, hooks, and extensions. Author once, install on every harness. QOL features included. | [SAFE](https://agentskillshub.top/skill/vanillagreencom/kendex/) |
 | [Hainrixz/skill-vault](https://github.com/Hainrixz/skill-vault) | 77 | Your personal skill library for Claude Code. Organize, analyze, and search skills with built-in security analysis. Zero dependencies — clone and go. | [SAFE](https://agentskillshub.top/skill/Hainrixz/skill-vault/) |
@@ -113,7 +113,7 @@ On 2026-10-09 we ran 16 of these tools; 14 could be judged. Each got the same jo
 | [mensfeld/craftdesk](https://github.com/mensfeld/craftdesk) | 66 | Package manager for Claude Code skills and agents and other AI related resources | [SAFE](https://agentskillshub.top/skill/mensfeld/craftdesk/) |
 | [tt-a1i/skillroster](https://github.com/tt-a1i/skillroster) | 54 | Turn scattered, duplicated AI-agent Skills into per-Agent Rosters—with evidence, receipts, and exact undo. | [SAFE](https://agentskillshub.top/skill/tt-a1i/skillroster/) |
 | [egebese/skill-manager](https://github.com/egebese/skill-manager) | 39 | Save ~4,000 tokens per conversation by auto-disabling irrelevant Claude Code skills per project. Detects tech stack, scores skill relevance, injects… | [SAFE](https://agentskillshub.top/skill/egebese/skill-manager/) |
-| [GrubbyLee/skill-manager](https://github.com/GrubbyLee/skill-manager) | 29 | Zero-dependency CLI to scan, recommend, deduplicate, audit, and visualize Claude Code / Codex skills and MCP servers. | [SAFE](https://agentskillshub.top/skill/GrubbyLee/skill-manager/) |
+| [GrubbyLee/skill-manager](https://github.com/GrubbyLee/skill-manager) | 30 | Zero-dependency CLI to scan, recommend, deduplicate, audit, and visualize Claude Code / Codex skills and MCP servers. | [SAFE](https://agentskillshub.top/skill/GrubbyLee/skill-manager/) |
 | [seed-forge/harness-ai-kit](https://github.com/seed-forge/harness-ai-kit) | 25 | Package manager for AI agent assets — 42 skills, 5 CLIs, 1 plugin. Skills for AI/LLM agent engineering, eval-driven dev, spec-driven dev, database (M… | [SAFE](https://agentskillshub.top/skill/seed-forge/harness-ai-kit/) |
 | [luml-ai/AGENTS.lock](https://github.com/luml-ai/AGENTS.lock) | 21 | A package manager for Agents/Skills/MCPs | [SAFE](https://agentskillshub.top/skill/luml-ai/AGENTS.lock/) |
 | [olegpustovit/agentpack](https://github.com/olegpustovit/agentpack) | 16 | Pin skills and plugins for coding agents with a project manifest and lockfile. | [SAFE](https://agentskillshub.top/skill/olegpustovit/agentpack/) |
@@ -122,13 +122,13 @@ On 2026-10-09 we ran 16 of these tools; 14 could be judged. Each got the same jo
 | [Brattlof/skillet](https://github.com/Brattlof/skillet) | 9 | Package manager for MCP servers, Agent Skills (SKILL.md), and Claude Code commands, hooks, subagents, and output styles. Installs into Claude Code, C… | [SAFE](https://agentskillshub.top/skill/Brattlof/skillet/) |
 | [xhyqaq/skill-manager](https://github.com/xhyqaq/skill-manager) | 9 | 用来解决 skills 管理问题 | [SAFE](https://agentskillshub.top/skill/xhyqaq/skill-manager/) |
 | [kunaltulsidasani/claude-reimagined](https://github.com/kunaltulsidasani/claude-reimagined) | 8 | One-command bootstrap for a fully wired Claude Code workstation — installs Claude Code, RTK, context-mode, code-review-graph, caveman, hooks, MCP ser… | [SAFE](https://agentskillshub.top/skill/kunaltulsidasani/claude-reimagined/) |
-| [robertoatila/jarvis-skill-registry](https://github.com/robertoatila/jarvis-skill-registry) | 8 | Local-first cognitive runtime for AI agents: bounded context, persistent memory, tool/model routing and verified execution. | [SAFE](https://agentskillshub.top/skill/robertoatila/jarvis-skill-registry/) |
+| [robertoatila/jarvis-skill-registry](https://github.com/robertoatila/jarvis-skill-registry) | 8 | Local-first autonomous cognitive runtime and sovereign skill registry for AI agents: bounded context admission, persistent episodic memory, multi-mod… | [SAFE](https://agentskillshub.top/skill/robertoatila/jarvis-skill-registry/) |
 | [frmlabz/omnidev](https://github.com/frmlabz/omnidev) | 7 | A package manager for agentic coding capabilities. A universal way to discover, install, and manage commands, subagents, skills, and custom functiona… | [SAFE](https://agentskillshub.top/skill/frmlabz/omnidev/) |
 | [Asher-pro/skill-installer](https://github.com/Asher-pro/skill-installer) | 6 | Install any skill to Claude Code. | [SAFE](https://agentskillshub.top/skill/Asher-pro/skill-installer/) |
-| [CoderAndyLee/skills-manager](https://github.com/CoderAndyLee/skills-manager) | 6 | Safety-first inventory, audit, migration, deployment, and recovery for Agent Skills. | [SAFE](https://agentskillshub.top/skill/CoderAndyLee/skills-manager/) |
 | [VersoXBT/skill-manager](https://github.com/VersoXBT/skill-manager) | 6 | Claude Code plugin — inventory all your installed skills, check structure, and find updates. Free, zero dependencies. | [SAFE](https://agentskillshub.top/skill/VersoXBT/skill-manager/) |
 | [caioross/skilldepot-go](https://github.com/caioross/skilldepot-go) | 6 | Official Go SDK for SkillDepot - The AI Agent Skill Marketplace | [SAFE](https://agentskillshub.top/skill/caioross/skilldepot-go/) |
 | [lathe-cli/kitup](https://github.com/lathe-cli/kitup) | 6 | Shared installer SDK for bundled Agent Skills. | [SAFE](https://agentskillshub.top/skill/lathe-cli/kitup/) |
+| [CoderAndyLee/skills-manager](https://github.com/CoderAndyLee/skills-manager) | 5 | Safety-first inventory, audit, migration, deployment, and recovery for Agent Skills. | [SAFE](https://agentskillshub.top/skill/CoderAndyLee/skills-manager/) |
 | [lonewolfyx/skills-config](https://github.com/lonewolfyx/skills-config) | 5 | Declarative Git skills manager for AI coding agents. Define skills in skills.config.ts and automatically provision them during npm install / prepare. | [SAFE](https://agentskillshub.top/skill/lonewolfyx/skills-config/) |
 
 <a id="type-cli"></a>
@@ -138,19 +138,20 @@ On 2026-10-09 we ran 16 of these tools; 14 could be judged. Each got the same jo
 
 <table><tr>
 <td align="center" valign="top"><a href="https://github.com/yeasy/ask"><img src="assets/previews/yeasy__ask.jpg" width="260" alt="yeasy/ask"></a><br><sub><a href="https://github.com/yeasy/ask">yeasy/ask</a></sub></td>
+<td align="center" valign="top"><a href="https://github.com/777genius/universal-agent-plugins"><img src="assets/previews/777genius__universal-agent-plugins.jpg" width="260" alt="777genius/universal-agent-plugins"></a><br><sub><a href="https://github.com/777genius/universal-agent-plugins">777genius/universal-agent-plugins</a></sub></td>
 </tr></table>
 
 | Repo | Stars | What it does | Security |
 |---|---:|---|---|
 | [MoizIbnYousaf/ai-agent-skills](https://github.com/MoizIbnYousaf/ai-agent-skills) | 1.2k | Universal skill installer and package manager for AI coding agents. One command, 12+ runtimes. npx ai-agent-skills | [SAFE](https://agentskillshub.top/skill/MoizIbnYousaf/ai-agent-skills/) |
 | [pathintegral-institute/mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh) | 1.0k | CLI MCP package manager & registry for all platforms and all clients. Search & configure MCP servers. Advanced Router & Profile features. | [SAFE](https://agentskillshub.top/skill/pathintegral-institute/mcpm.sh/) |
-| [luongnv89/asm](https://github.com/luongnv89/asm) | 968 | The universal skill manager for AI coding agents. | [SAFE](https://agentskillshub.top/skill/luongnv89/asm/) |
-| [activeing123/mcptoon](https://github.com/activeing123/mcptoon) | 427 | One zero-dependency MCP gateway CLI for every server and agent skill. Token optimization, tool discovery and context compression: 71,929 -> 581 token… | [SAFE](https://agentskillshub.top/skill/activeing123/mcptoon/) |
-| [knoxgraeme/skillfish](https://github.com/knoxgraeme/skillfish) | 329 | The skill manager for AI coding agents. Install, update, and sync skills across Claude Code, Cursor, Copilot + more. | [SAFE](https://agentskillshub.top/skill/knoxgraeme/skillfish/) |
+| [luongnv89/asm](https://github.com/luongnv89/asm) | 970 | The universal skill manager for AI coding agents. | [SAFE](https://agentskillshub.top/skill/luongnv89/asm/) |
+| [activeing123/mcptoon](https://github.com/activeing123/mcptoon) | 429 | One zero-dependency MCP gateway CLI for every server and agent skill. Token optimization, tool discovery and context compression: 71,929 -> 581 token… | [SAFE](https://agentskillshub.top/skill/activeing123/mcptoon/) |
+| [knoxgraeme/skillfish](https://github.com/knoxgraeme/skillfish) | 330 | The skill manager for AI coding agents. Install, update, and sync skills across Claude Code, Cursor, Copilot + more. | [SAFE](https://agentskillshub.top/skill/knoxgraeme/skillfish/) |
 | [VintLin/skill-flow](https://github.com/VintLin/skill-flow) | 265 | Install, manage, and share skills across every major coding agent — Claude Code, Cursor, Copilot, and more. | [SAFE](https://agentskillshub.top/skill/VintLin/skill-flow/) |
-| [shenysun/skills-manager](https://github.com/shenysun/skills-manager) | 243 | CLI-first hub for agent skills: one npx install, manage in chat, distribute to 70+ agents | [SAFE](https://agentskillshub.top/skill/shenysun/skills-manager/) |
+| [shenysun/skills-manager](https://github.com/shenysun/skills-manager) | 244 | CLI-first hub for agent skills: one npx install, manage in chat, distribute to 70+ agents | [SAFE](https://agentskillshub.top/skill/shenysun/skills-manager/) |
 | [Karanjot786/agent-skills-cli](https://github.com/Karanjot786/agent-skills-cli) | 194 | Install, update and manage AI agent skills across 45 coding agents from one CLI. Sources: marketplace, GitHub, private Git and npm. | [SAFE](https://agentskillshub.top/skill/Karanjot786/agent-skills-cli/) |
-| [eljulians/skillfile](https://github.com/eljulians/skillfile) | 180 | One-stop shop for AI skills and agents. Search 110K+ community skills, install and track them declaratively, and deploy across all major AI coding to… | [SAFE](https://agentskillshub.top/skill/eljulians/skillfile/) |
+| [eljulians/skillfile](https://github.com/eljulians/skillfile) | 181 | One-stop shop for AI skills and agents. Search 110K+ community skills, install and track them declaratively, and deploy across all major AI coding to… | [SAFE](https://agentskillshub.top/skill/eljulians/skillfile/) |
 | [LobsterTrap/lola](https://github.com/LobsterTrap/lola) | 132 | Lola is able to package AI Context Modules or skills into a distributed package to be supported across multiple AI assistants. Think of your skill as… | [SAFE](https://agentskillshub.top/skill/LobsterTrap/lola/) |
 | [Soul-Brews-Studio/arra-oracle-skills-cli](https://github.com/Soul-Brews-Studio/arra-oracle-skills-cli) | 125 | Install Oracle skills to Claude Code, OpenCode, Cursor, and 12+ AI coding agents | [SAFE](https://agentskillshub.top/skill/Soul-Brews-Studio/arra-oracle-skills-cli/) |
 | [jacob-bd/universal-skills-manager](https://github.com/jacob-bd/universal-skills-manager) | 115 |  | [SAFE](https://agentskillshub.top/skill/jacob-bd/universal-skills-manager/) |
@@ -167,6 +168,7 @@ On 2026-10-09 we ran 16 of these tools; 14 could be judged. Each got the same jo
 | [yeasy/ask](https://github.com/yeasy/ask) | 27 | The most powerful Package Manager for Agents Skills: search, query and install/uninstall in seconds! | [SAFE](https://agentskillshub.top/skill/yeasy/ask/) |
 | [try-agora/qvr](https://github.com/try-agora/qvr) | 26 | quiver (qvr): open-source git-native package manager for agent skills — lockfile-first, registry-agnostic, and built for reproducible AI agent workfl… | [CAUTION](https://agentskillshub.top/skill/try-agora/qvr/) |
 | [tiandee/awesome-skills-hub](https://github.com/tiandee/awesome-skills-hub) | 18 | A professional package manager for AI IDE skills & rules. Centralize your prompts and sync across Antigravity, Cursor, Windsurf, and Claude with "Wri… | [SAFE](https://agentskillshub.top/skill/tiandee/awesome-skills-hub/) |
+| [777genius/universal-agent-plugins](https://github.com/777genius/universal-agent-plugins) | 16 | Multi-agent CLI to install, update, repair, and remove Agent Plugins 1.0 and Agent Skills across Codex/ChatGPT, Claude, Cursor, Gemini, Copilot, Qode… | [SAFE](https://agentskillshub.top/skill/777genius/universal-agent-plugins/) |
 | [sbroenne/skillpm](https://github.com/sbroenne/skillpm) | 14 | Package manager for Agent Skills. Built on npm. | [SAFE](https://agentskillshub.top/skill/sbroenne/skillpm/) |
 | [avibe-bot/askill](https://github.com/avibe-bot/askill) | 13 | Package manager for AI agent skills | [SAFE](https://agentskillshub.top/skill/avibe-bot/askill/) |
 | [jtianling/skills-manager](https://github.com/jtianling/skills-manager) | 13 | Unified skills manager for AI coding tools. Deploy them to multiple AI tools. | [SAFE](https://agentskillshub.top/skill/jtianling/skills-manager/) |
@@ -205,7 +207,7 @@ On 2026-10-09 we ran 16 of these tools; 14 could be judged. Each got the same jo
 
 | Repo | Stars | What it does | Security |
 |---|---:|---|---|
-| [activeloopai/hivemind](https://github.com/activeloopai/hivemind) | 1.6k | Hivemind turns your traces into reusable skills across agents | [SAFE](https://agentskillshub.top/skill/activeloopai/hivemind/) |
+| [activeloopai/hivemind](https://github.com/activeloopai/hivemind) | 1.7k | Hivemind turns your traces into reusable skills across agents | [SAFE](https://agentskillshub.top/skill/activeloopai/hivemind/) |
 | [shanliuling/skills-link](https://github.com/shanliuling/skills-link) | 188 | Sync your local skills across 41+ AI coding agents with a single command. | [SAFE](https://agentskillshub.top/skill/shanliuling/skills-link/) |
 | [nnnggel/skills-management](https://github.com/nnnggel/skills-management) | 127 | A CLI tool to manage and synchronize AI coding agent skills | [SAFE](https://agentskillshub.top/skill/nnnggel/skills-management/) |
 | [kina-cmd/agent-skill-sync](https://github.com/kina-cmd/agent-skill-sync) | 97 | Scan, classify (A/B/C/D) and sync AI-agent SKILL.md files across toolchains (Codex, Claude Code, WorkBuddy). Zero-dependency Python CLI. | [SAFE](https://agentskillshub.top/skill/kina-cmd/agent-skill-sync/) |
@@ -236,25 +238,25 @@ On 2026-10-09 we ran 16 of these tools; 14 could be judged. Each got the same jo
 | [skillsgate/skillsgate](https://github.com/skillsgate/skillsgate) | 1.4k |  | [SAFE](https://agentskillshub.top/skill/skillsgate/skillsgate/) |
 | [Dimillian/CodexSkillManager](https://github.com/Dimillian/CodexSkillManager) | 1.4k | macOS app to manage your Codex skills | [SAFE](https://agentskillshub.top/skill/Dimillian/CodexSkillManager/) |
 | [skillhub-club/skillhub-desktop](https://github.com/skillhub-club/skillhub-desktop) | 606 | One desktop to manage your agent skills | [SAFE](https://agentskillshub.top/skill/skillhub-club/skillhub-desktop/) |
-| [MichengAI/dsh-skills-manager](https://github.com/MichengAI/dsh-skills-manager) | 523 | DSH Skills Manager — 在 DeepSeek Harness 中统一加载并安全管理本机 Agent Skills · Load and safely manage local Agent Skills in DSH | [SAFE](https://agentskillshub.top/skill/MichengAI/dsh-skills-manager/) |
+| [MichengAI/dsh-skills-manager](https://github.com/MichengAI/dsh-skills-manager) | 529 | DSH Skills Manager — 在 DeepSeek Harness 中统一加载并安全管理本机 Agent Skills · Load and safely manage local Agent Skills in DSH | [SAFE](https://agentskillshub.top/skill/MichengAI/dsh-skills-manager/) |
 | [buzhangsan/skills-manager-client](https://github.com/buzhangsan/skills-manager-client) | 503 |  | [SAFE](https://agentskillshub.top/skill/buzhangsan/skills-manager-client/) |
-| [yibie/skills-manager](https://github.com/yibie/skills-manager) | 463 | A native macOS app to manage skills across coding agents — Claude Code, Cursor, Copilot CLI, Codex, Gemini CLI | [SAFE](https://agentskillshub.top/skill/yibie/skills-manager/) |
-| [bruc3van/agent-skills-guard](https://github.com/bruc3van/agent-skills-guard) | 392 | 一款提供Agent Skills安全扫描和可视化管理的桌面应用 \| A desktop application that provides security scanning and visual management for Agent Skills. | [SAFE](https://agentskillshub.top/skill/bruc3van/agent-skills-guard/) |
-| [alvinunreal/lazyskills](https://github.com/alvinunreal/lazyskills) | 336 | mission control for agent skills | [SAFE](https://agentskillshub.top/skill/alvinunreal/lazyskills/) |
-| [what1f/kitter](https://github.com/what1f/kitter) | 306 | A simple, lightweight Skill manager built in Rust. One library, just the Skills each project needs. | [SAFE](https://agentskillshub.top/skill/what1f/kitter/) |
+| [yibie/skills-manager](https://github.com/yibie/skills-manager) | 465 | A native macOS app to manage skills across coding agents — Claude Code, Cursor, Copilot CLI, Codex, Gemini CLI | [SAFE](https://agentskillshub.top/skill/yibie/skills-manager/) |
+| [bruc3van/agent-skills-guard](https://github.com/bruc3van/agent-skills-guard) | 393 | 一款提供Agent Skills安全扫描和可视化管理的桌面应用 \| A desktop application that provides security scanning and visual management for Agent Skills. | [SAFE](https://agentskillshub.top/skill/bruc3van/agent-skills-guard/) |
+| [alvinunreal/lazyskills](https://github.com/alvinunreal/lazyskills) | 338 | mission control for agent skills | [SAFE](https://agentskillshub.top/skill/alvinunreal/lazyskills/) |
+| [what1f/kitter](https://github.com/what1f/kitter) | 307 | A simple, lightweight Skill manager built in Rust. One library, just the Skills each project needs. | [SAFE](https://agentskillshub.top/skill/what1f/kitter/) |
 | [chrlsio/agent-skills](https://github.com/chrlsio/agent-skills) | 299 | Lightweight, high-performance cross-platform desktop app to browse, sync, and manage AI agent skills across Claude Code, Cursor, Gemini CLI, Copilot,… | [SAFE](https://agentskillshub.top/skill/chrlsio/agent-skills/) |
 | [tddworks/SkillsManager](https://github.com/tddworks/SkillsManager) | 206 | A macOS application for discovering, browsing, and installing skills for AI coding assistants. Manage skills for Claude Code and Codex from GitHub re… | [SAFE](https://agentskillshub.top/skill/tddworks/SkillsManager/) |
 | [scottcwy/skill-kits](https://github.com/scottcwy/skill-kits) | 202 | Skill-kits is a zero-dependency, single-binary AI Agent Skills management tool for any LLM and multi-agent workflows. | [SAFE](https://agentskillshub.top/skill/scottcwy/skill-kits/) |
 | [Rito-w/skills-manager](https://github.com/Rito-w/skills-manager) | 197 | A cross-platform skills manager for AI IDEs. Search marketplace, download locally, and install to Claude, Cursor, Windsurf, and more with one click. | [SAFE](https://agentskillshub.top/skill/Rito-w/skills-manager/) |
+| [luochang212/skill-zoo](https://github.com/luochang212/skill-zoo) | 126 | All-in-One Desktop Agent Skills Utility. Welcome to the Skill Zoo, where all your skills live! | [SAFE](https://agentskillshub.top/skill/luochang212/skill-zoo/) |
 | [khendzel/skills-janitor](https://github.com/khendzel/skills-janitor) | 125 | Tinder for your Claude Code skills, subagents and MCP servers. Swipe away what wastes context, scan for prompt injection, get honest token costs. Fix… | [SAFE](https://agentskillshub.top/skill/khendzel/skills-janitor/) |
-| [luochang212/skill-zoo](https://github.com/luochang212/skill-zoo) | 125 | All-in-One Desktop Agent Skills Utility. Welcome to the Skill Zoo, where all your skills live! | [SAFE](https://agentskillshub.top/skill/luochang212/skill-zoo/) |
 | [liuxingqitd/skills-hub](https://github.com/liuxingqitd/skills-hub) | 82 | A local dashboard to manage AI coding agent skills — sync, install, and organize skills across OpenClaw, Cursor, Claude Code, and more. | [SAFE](https://agentskillshub.top/skill/liuxingqitd/skills-hub/) |
 | [klubinskak/skilldex](https://github.com/klubinskak/skilldex) | 81 | Skilldex is a local-first desktop dashboard for developers to discover, organize, and favourite their agent skills across global, project, and repo s… | [SAFE](https://agentskillshub.top/skill/klubinskak/skilldex/) |
 | [cchao123/skills-manager](https://github.com/cchao123/skills-manager) | 73 | A package manager for AI agent skills with cross-agent sharing, sync, and deployment. | [SAFE](https://agentskillshub.top/skill/cchao123/skills-manager/) |
 | [zunalabs/skills-manager](https://github.com/zunalabs/skills-manager) | 73 | A universal desktop app for managing AI agent skills across all major coding agents. | [SAFE](https://agentskillshub.top/skill/zunalabs/skills-manager/) |
 | [youzaiAGI/agent-skills-hub](https://github.com/youzaiAGI/agent-skills-hub) | 71 | Management of skill packages | [SAFE](https://agentskillshub.top/skill/youzaiAGI/agent-skills-hub/) |
 | [robotbird/skillkit](https://github.com/robotbird/skillkit) | 68 | AI agent's skills manager | [CAUTION](https://agentskillshub.top/skill/robotbird/skillkit/) |
-| [Milktang0128/myskills](https://github.com/Milktang0128/myskills) | 61 | AI Skill Hub — a cross-platform desktop app to discover, dedupe, organize, and sync AI agent skills across Claude Code, Codex, and a shared pool. Shi… | [SAFE](https://agentskillshub.top/skill/Milktang0128/myskills/) |
+| [Milktang0128/myskills](https://github.com/Milktang0128/myskills) | 62 | AI Skill Hub — a cross-platform desktop app to discover, dedupe, organize, and sync AI agent skills across Claude Code, Codex, and a shared pool. Shi… | [SAFE](https://agentskillshub.top/skill/Milktang0128/myskills/) |
 | [ryderme/skill-manager](https://github.com/ryderme/skill-manager) | 56 |  | [SAFE](https://agentskillshub.top/skill/ryderme/skill-manager/) |
 | [asteroid-belt/skulto](https://github.com/asteroid-belt/skulto) | 51 | Offline and security-first tool for syncing and managing agent skills | [SAFE](https://agentskillshub.top/skill/asteroid-belt/skulto/) |
 | [mcp360/mTarsier](https://github.com/mcp360/mTarsier) | 50 | mTarsier - The Open Source MCP & Skill Manager for Claude, Cursor, VS Code & any AI client. | [SAFE](https://agentskillshub.top/skill/mcp360/mTarsier/) |
@@ -289,17 +291,17 @@ On 2026-10-09 we ran 16 of these tools; 14 could be judged. Each got the same jo
 | [jeremylongshore/tons-of-skills-marketplace](https://github.com/jeremylongshore/tons-of-skills-marketplace) | 2.9k | Model-agnostic agent-skills platform with a harness-free canonical layer, verified adapters, and the ccpi package manager. Explore at tonsofskills.co… | [SAFE](https://agentskillshub.top/skill/jeremylongshore/tons-of-skills-marketplace/) |
 | [daymade/claude-code-skills](https://github.com/daymade/claude-code-skills) | 1.5k | Professional Claude Code skills marketplace featuring production-ready skills for enhanced development workflows. | [SAFE](https://agentskillshub.top/skill/daymade/claude-code-skills/) |
 | [binance/binance-skills-hub](https://github.com/binance/binance-skills-hub) | 1.2k | Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto | [SAFE](https://agentskillshub.top/skill/binance/binance-skills-hub/) |
-| [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) | 692 | Claude Code Skills for software engineering workflows - Git automation, testing, and code review | [SAFE](https://agentskillshub.top/skill/mhattingpete/claude-skills-marketplace/) |
-| [zhuyansen/agent-skills-hub](https://github.com/zhuyansen/agent-skills-hub) | 495 | AgentSkillsHub (agentskillshub.top) — security-graded directory of open-source Claude skills, MCP servers & AI agent tools, refreshed every 8 hours | [SAFE](https://agentskillshub.top/skill/zhuyansen/agent-skills-hub/) |
-| [Leon-Drq/openagentskill](https://github.com/Leon-Drq/openagentskill) | 368 | The skill layer for AI agents: npm for AI Agent Skills. | [SAFE](https://agentskillshub.top/skill/Leon-Drq/openagentskill/) |
+| [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) | 694 | Claude Code Skills for software engineering workflows - Git automation, testing, and code review | [SAFE](https://agentskillshub.top/skill/mhattingpete/claude-skills-marketplace/) |
+| [zhuyansen/agent-skills-hub](https://github.com/zhuyansen/agent-skills-hub) | 496 | AgentSkillsHub (agentskillshub.top) — security-graded directory of open-source Claude skills, MCP servers & AI agent tools, refreshed every 8 hours | [SAFE](https://agentskillshub.top/skill/zhuyansen/agent-skills-hub/) |
+| [Leon-Drq/openagentskill](https://github.com/Leon-Drq/openagentskill) | 370 | The skill layer for AI agents: npm for AI Agent Skills. | [SAFE](https://agentskillshub.top/skill/Leon-Drq/openagentskill/) |
 | [buzhangsan/skill-manager](https://github.com/buzhangsan/skill-manager) | 322 |  | [SAFE](https://agentskillshub.top/skill/buzhangsan/skill-manager/) |
-| [modu-ai/cowork-plugins](https://github.com/modu-ai/cowork-plugins) | 314 | 비개발자를 위한 한국 실무 AI 코워커 패밀리 — Claude Cowork·ChatGPT Work에서 /project 한 번으로 시작 | [SAFE](https://agentskillshub.top/skill/modu-ai/cowork-plugins/) |
-| [PramodDutta/qaskills](https://github.com/PramodDutta/qaskills) | 246 | QA Skills Directory QA Skills is a curated directory of testing-specific skills for AI coding agents (Claude Code, Cursor, Copilot, etc.). | [SAFE](https://agentskillshub.top/skill/PramodDutta/qaskills/) |
+| [modu-ai/cowork-plugins](https://github.com/modu-ai/cowork-plugins) | 315 | 비개발자를 위한 한국 실무 AI 코워커 패밀리 — Claude Cowork·ChatGPT Work에서 /project 한 번으로 시작 | [SAFE](https://agentskillshub.top/skill/modu-ai/cowork-plugins/) |
+| [PramodDutta/qaskills](https://github.com/PramodDutta/qaskills) | 248 | QA Skills Directory QA Skills is a curated directory of testing-specific skills for AI coding agents (Claude Code, Cursor, Copilot, etc.). | [SAFE](https://agentskillshub.top/skill/PramodDutta/qaskills/) |
 | [ahmedasmar/devops-claude-skills](https://github.com/ahmedasmar/devops-claude-skills) | 206 | A Claude Code Skills Marketplace for DevOps workflows | [SAFE](https://agentskillshub.top/skill/ahmedasmar/devops-claude-skills/) |
 | [nextlevelbuilder/skillx](https://github.com/nextlevelbuilder/skillx) | 196 | SkillX.sh — The Only Skill That Your AI Agent Needs. AI agent skills marketplace with semantic search, leaderboard, ratings, and CLI. | [SAFE](https://agentskillshub.top/skill/nextlevelbuilder/skillx/) |
 | [AElfProject/aelf-skills](https://github.com/AElfProject/aelf-skills) | 182 | Unified aelf skills hub for discovery, routing, bootstrap, and health checks across OpenClaw, Codex, Cursor, and Claude Code. | [SAFE](https://agentskillshub.top/skill/AElfProject/aelf-skills/) |
 | [ARPAHLS/skillware](https://github.com/ARPAHLS/skillware) | 180 | A Python framework for modular, self-contained skill management for machines. | [SAFE](https://agentskillshub.top/skill/ARPAHLS/skillware/) |
-| [agent-skills-hub/agent-skills-hub](https://github.com/agent-skills-hub/agent-skills-hub) | 128 | Agent Skills Hub is a global library of AI agent skills that work across OpenClaw, Claude Code, Gemini, Cursor, Antigravity, and more. | [SAFE](https://agentskillshub.top/skill/agent-skills-hub/agent-skills-hub/) |
+| [agent-skills-hub/agent-skills-hub](https://github.com/agent-skills-hub/agent-skills-hub) | 132 | Agent Skills Hub is a global library of AI agent skills that work across OpenClaw, Claude Code, Gemini, Cursor, Antigravity, and more. | [SAFE](https://agentskillshub.top/skill/agent-skills-hub/agent-skills-hub/) |
 | [obie/skills](https://github.com/obie/skills) | 101 | Claude Code skills marketplace - Production-ready skills for enhanced development workflows | [SAFE](https://agentskillshub.top/skill/obie/skills/) |
 | [existential-birds/beagle](https://github.com/existential-birds/beagle) | 87 | Agent Skills marketplace: framework-aware skills for code review, documentation, test-plan generation, AI-writing detection, architectural analysis,… | [SAFE](https://agentskillshub.top/skill/existential-birds/beagle/) |
 | [ComeOnOliver/skillshub](https://github.com/ComeOnOliver/skillshub) | 66 | 🧠 The right skill, one API call. AI agent skills registry with token-efficient skill resolution. 5,000+ skills from 500+ top repos. | [SAFE](https://agentskillshub.top/skill/ComeOnOliver/skillshub/) |
@@ -347,4 +349,4 @@ Open an issue with the GitHub URL. It goes through the same review as every entr
 
 ---
 
-Machine-readable copy: [`data/skills.json`](data/skills.json). Generated 2026-11-09.
+Machine-readable copy: [`data/skills.json`](data/skills.json). Generated 2026-11-10.

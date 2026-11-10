@@ -6,6 +6,7 @@ authors and stay under the license of the project they come from. To have one re
 
 | File | Project | License | Original |
 |---|---|---|---|
+| `777genius__universal-agent-plugins.jpg` | [777genius/universal-agent-plugins](https://github.com/777genius/universal-agent-plugins) | Apache-2.0 | [source](https://github.com/user-attachments/assets/33833cd2-f525-49b2-9181-5a4d643d2f5b) |
 | `activeloopai__hivemind.jpg` | [activeloopai/hivemind](https://github.com/activeloopai/hivemind) | Apache-2.0 | [source](https://raw.githubusercontent.com/activeloopai/hivemind/HEAD/docs/screenshots/codebase-graph.webp) |
 | `Dimillian__CodexSkillManager.jpg` | [Dimillian/CodexSkillManager](https://github.com/Dimillian/CodexSkillManager) | MIT | [source](https://raw.githubusercontent.com/Dimillian/CodexSkillManager/HEAD/image.png) |
 | `eatmoreduck__SkillManager.jpg` | [eatmoreduck/SkillManager](https://github.com/eatmoreduck/SkillManager) | MIT | [source](https://raw.githubusercontent.com/eatmoreduck/SkillManager/HEAD/docs/screenshots/My%20Skills.png) |
