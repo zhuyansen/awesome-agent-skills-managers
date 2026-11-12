@@ -89,6 +89,16 @@
   "file": "pr-pm__prpm.gif",
   "still": "pr-pm__prpm.jpg"
  },
+ "rohitg00/skillkit": {
+  "repo": "rohitg00/skillkit",
+  "url": "https://raw.githubusercontent.com/rohitg00/skillkit/HEAD/docs/img/skillkit-ui.png",
+  "alt": "SkillKit interactive TUI",
+  "score": -1.0,
+  "type": "image/png",
+  "bytes": 95962,
+  "file": "rohitg00__skillkit.jpg",
+  "still": "rohitg00__skillkit.jpg"
+ },
  "taito-project/taito": {
   "repo": "taito-project/taito",
   "url": "https://raw.githubusercontent.com/taito-project/.github/main/assets/taito-promo.gif",
