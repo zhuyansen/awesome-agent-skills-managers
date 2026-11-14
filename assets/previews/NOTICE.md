@@ -14,6 +14,7 @@ authors and stay under the license of the project they come from. To have one re
 | `LLJ99999__jack-codex.jpg` | [LLJ99999/jack-codex](https://github.com/LLJ99999/jack-codex) | MIT | [source](https://raw.githubusercontent.com/LLJ99999/jack-codex/HEAD/design-previews/jack-codex-react-final.png) |
 | `luml-ai__AGENTS.lock.jpg` | [luml-ai/AGENTS.lock](https://github.com/luml-ai/AGENTS.lock) | MIT | [source](https://raw.githubusercontent.com/Dataforce-Solutions/static_assets/main/luml-hero-light.png) |
 | `neiii__bridle.jpg` | [neiii/bridle](https://github.com/neiii/bridle) | MIT | [source](https://raw.githubusercontent.com/neiii/bridle/HEAD/assets/bridle_header.png) |
+| `phillarmonic__repertoire-ai.jpg` | [phillarmonic/repertoire-ai](https://github.com/phillarmonic/repertoire-ai) | MIT | [source](https://raw.githubusercontent.com/phillarmonic/repertoire-ai/HEAD/docs/images/repertoire500.png) |
 | `pr-pm__prpm.gif` | [pr-pm/prpm](https://github.com/pr-pm/prpm) | MIT | [source](https://raw.githubusercontent.com/pr-pm/prpm/main/packages/webapp/public/demo.gif) |
 | `rohitg00__skillkit.jpg` | [rohitg00/skillkit](https://github.com/rohitg00/skillkit) | Apache-2.0 | [source](https://raw.githubusercontent.com/rohitg00/skillkit/HEAD/docs/img/skillkit-ui.png) |
 | `taito-project__taito.gif` | [taito-project/taito](https://github.com/taito-project/taito) | MIT | [source](https://raw.githubusercontent.com/taito-project/.github/main/assets/taito-promo.gif) |

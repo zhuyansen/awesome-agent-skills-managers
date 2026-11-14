@@ -79,6 +79,16 @@
   "file": "neiii__bridle.jpg",
   "still": "neiii__bridle.jpg"
  },
+ "phillarmonic/repertoire-ai": {
+  "repo": "phillarmonic/repertoire-ai",
+  "url": "https://raw.githubusercontent.com/phillarmonic/repertoire-ai/HEAD/docs/images/repertoire500.png",
+  "alt": "Repertoire logo",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 49262,
+  "file": "phillarmonic__repertoire-ai.jpg",
+  "still": "phillarmonic__repertoire-ai.jpg"
+ },
  "pr-pm/prpm": {
   "repo": "pr-pm/prpm",
   "url": "https://raw.githubusercontent.com/pr-pm/prpm/main/packages/webapp/public/demo.gif",
