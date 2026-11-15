@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14",
+ "generated": "2026-11-15",
  "source": "https://agentskillshub.top/best/skill-management-tools/",
  "kinds": [
   {
@@ -43,7 +43,7 @@
   {
    "repo_full_name": "microsoft/apm",
    "path": null,
-   "stars": 4367,
+   "stars": 4374,
    "description": "Agent Package Manager",
    "kind": "general",
    "security_grade": "safe",
@@ -53,7 +53,7 @@
   {
    "repo_full_name": "runkids/skillshare",
    "path": null,
-   "stars": 3120,
+   "stars": 3140,
    "description": "📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing.",
    "kind": "general",
    "security_grade": "safe",
@@ -73,7 +73,7 @@
   {
    "repo_full_name": "RealZST/HarnessKit",
    "path": null,
-   "stars": 495,
+   "stars": 496,
    "description": "More than a skill manager — manage skills, MCP servers, plugins, hooks, CLIs, configs, memory & rules across every AI coding agent. 🌟 Star if you like it!",
    "kind": "general",
    "security_grade": "safe",
@@ -113,7 +113,7 @@
   {
    "repo_full_name": "pr-pm/prpm",
    "path": null,
-   "stars": 124,
+   "stars": 125,
    "description": "The universal registry for AI coding tools",
    "kind": "general",
    "security_grade": "safe",
@@ -363,7 +363,7 @@
   {
    "repo_full_name": "MoizIbnYousaf/ai-agent-skills",
    "path": null,
-   "stars": 1156,
+   "stars": 1157,
    "description": "Universal skill installer and package manager for AI coding agents. One command, 12+ runtimes. npx ai-agent-skills",
    "kind": "cli",
    "security_grade": "safe",
@@ -383,7 +383,7 @@
   {
    "repo_full_name": "luongnv89/asm",
    "path": null,
-   "stars": 975,
+   "stars": 974,
    "description": "The universal skill manager for AI coding agents.",
    "kind": "cli",
    "security_grade": "safe",
@@ -393,7 +393,7 @@
   {
    "repo_full_name": "activeing123/mcptoon",
    "path": null,
-   "stars": 430,
+   "stars": 431,
    "description": "One zero-dependency MCP gateway CLI for every server and agent skill. Token optimization, tool discovery and context compression: 71,929 -> 581 tokens (-99.2%, measured), schemas stay out of context. One config for Claude Code, Codex, Cursor, every agent. 561KB, pure Python. | 零依赖 CLI：管所有 MCP 工具与技能，工具发现省 99.2% token。",
    "kind": "cli",
    "security_grade": "safe",
@@ -443,7 +443,7 @@
   {
    "repo_full_name": "eljulians/skillfile",
    "path": null,
-   "stars": 181,
+   "stars": 182,
    "description": "One-stop shop for AI skills and agents. Search 110K+ community skills, install and track them declaratively, and deploy across all major AI coding tools (Claude Code, Codex, Cursor, Antigravity and more)",
    "kind": "cli",
    "security_grade": "safe",
@@ -623,7 +623,7 @@
   {
    "repo_full_name": "777genius/universal-agent-plugins",
    "path": null,
-   "stars": 16,
+   "stars": 17,
    "description": "Multi-agent CLI to install, update, repair, and remove Agent Plugins 1.0 and Agent Skills across Codex/ChatGPT, Claude, Cursor, Gemini, Copilot, Qoder, Pi, OpenCode, and more. 1,500+ plugins. SDK for universal plugins (hooks, detect, install/manage)",
    "kind": "cli",
    "security_grade": "safe",
@@ -1053,7 +1053,7 @@
   {
    "repo_full_name": "HKUDS/AgentPilot",
    "path": null,
-   "stars": 8026,
+   "stars": 8041,
    "description": "AgentPilot: Make Your Agents Move Better and Faster",
    "kind": "app",
    "security_grade": "safe",
@@ -1063,7 +1063,7 @@
   {
    "repo_full_name": "xingkongliang/skills-manager",
    "path": null,
-   "stars": 7506,
+   "stars": 7524,
    "description": "A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
    "kind": "app",
    "security_grade": "safe",
@@ -1073,7 +1073,7 @@
   {
    "repo_full_name": "Shpigford/chops",
    "path": null,
-   "stars": 2112,
+   "stars": 2114,
    "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
    "kind": "app",
    "security_grade": "safe",
@@ -1083,7 +1083,7 @@
   {
    "repo_full_name": "qufei1993/skills-hub",
    "path": null,
-   "stars": 1872,
+   "stars": 1873,
    "description": "A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install once, sync everywhere”.",
    "kind": "app",
    "security_grade": "safe",
@@ -1093,7 +1093,7 @@
   {
    "repo_full_name": "skillsgate/skillsgate",
    "path": null,
-   "stars": 1433,
+   "stars": 1434,
    "description": null,
    "kind": "app",
    "security_grade": "safe",
@@ -1123,7 +1123,7 @@
   {
    "repo_full_name": "MichengAI/dsh-skills-manager",
    "path": null,
-   "stars": 566,
+   "stars": 572,
    "description": "DSH Skills Manager — 在 DeepSeek Harness 中统一加载并安全管理本机 Agent Skills · Load and safely manage local Agent Skills in DSH",
    "kind": "app",
    "security_grade": "safe",
@@ -1133,7 +1133,7 @@
   {
    "repo_full_name": "buzhangsan/skills-manager-client",
    "path": null,
-   "stars": 502,
+   "stars": 503,
    "description": null,
    "kind": "app",
    "security_grade": "safe",
@@ -1221,16 +1221,6 @@
    "license": null
   },
   {
-   "repo_full_name": "luochang212/skill-zoo",
-   "path": null,
-   "stars": 126,
-   "description": "All-in-One Desktop Agent Skills Utility. Welcome to the Skill Zoo, where all your skills live!",
-   "kind": "app",
-   "security_grade": "safe",
-   "language": "TypeScript",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "khendzel/skills-janitor",
    "path": null,
    "stars": 125,
@@ -1238,6 +1228,16 @@
    "kind": "app",
    "security_grade": "safe",
    "language": "Shell",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "luochang212/skill-zoo",
+   "path": null,
+   "stars": 125,
+   "description": "All-in-One Desktop Agent Skills Utility. Welcome to the Skill Zoo, where all your skills live!",
+   "kind": "app",
+   "security_grade": "safe",
+   "language": "TypeScript",
    "license": "MIT"
   },
   {
@@ -1353,7 +1353,7 @@
   {
    "repo_full_name": "umutbozdag/agent-skills-manager",
    "path": null,
-   "stars": 43,
+   "stars": 44,
    "description": "Manage all your AI agent skills from a single dashboard — Cursor, Claude, and Agents",
    "kind": "app",
    "security_grade": "safe",
@@ -1513,7 +1513,7 @@
   {
    "repo_full_name": "phuryn/pm-skills",
    "path": null,
-   "stars": 27985,
+   "stars": 28001,
    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
    "kind": "registry",
    "security_grade": "safe",
@@ -1533,7 +1533,7 @@
   {
    "repo_full_name": "davepoon/buildwithclaude",
    "path": null,
-   "stars": 3743,
+   "stars": 3749,
    "description": "A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code, Claude Desktop, Agent SDK and OpenClaw",
    "kind": "registry",
    "security_grade": "safe",
@@ -1543,7 +1543,7 @@
   {
    "repo_full_name": "jeremylongshore/tons-of-skills-marketplace",
    "path": null,
-   "stars": 2921,
+   "stars": 2924,
    "description": "Model-agnostic agent-skills platform with a harness-free canonical layer, verified adapters, and the ccpi package manager. Explore at tonsofskills.com.",
    "kind": "registry",
    "security_grade": "safe",
@@ -1563,7 +1563,7 @@
   {
    "repo_full_name": "binance/binance-skills-hub",
    "path": null,
-   "stars": 1170,
+   "stars": 1192,
    "description": "Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto",
    "kind": "registry",
    "security_grade": "safe",
@@ -1583,7 +1583,7 @@
   {
    "repo_full_name": "zhuyansen/agent-skills-hub",
    "path": null,
-   "stars": 502,
+   "stars": 501,
    "description": "AgentSkillsHub (agentskillshub.top) — security-graded directory of open-source Claude skills, MCP servers & AI agent tools, refreshed every 8 hours",
    "kind": "registry",
    "security_grade": "safe",
@@ -1673,7 +1673,7 @@
   {
    "repo_full_name": "agent-skills-hub/agent-skills-hub",
    "path": null,
-   "stars": 133,
+   "stars": 136,
    "description": "Agent Skills Hub is a global library of AI agent skills that work across OpenClaw, Claude Code, Gemini, Cursor, Antigravity, and more.",
    "kind": "registry",
    "security_grade": "safe",
@@ -1713,7 +1713,7 @@
   {
    "repo_full_name": "zeroclaw-labs/zeroclaw-skills",
    "path": null,
-   "stars": 65,
+   "stars": 66,
    "description": "Official skill registry for ZeroClaw — community-contributed AI agent skills, tools, and workflows",
    "kind": "registry",
    "security_grade": "safe",
@@ -1863,7 +1863,7 @@
   {
    "repo_full_name": "terrylica/cc-skills",
    "path": null,
-   "stars": 2,
+   "stars": 3,
    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, semantic versioning, and productivity workflows",
    "kind": "registry",
    "security_grade": "safe",
@@ -1873,7 +1873,7 @@
   {
    "repo_full_name": "iflytek/skillhub",
    "path": null,
-   "stars": 5422,
+   "stars": 5428,
    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes.",
    "kind": "team",
    "security_grade": "safe",
