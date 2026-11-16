@@ -29,6 +29,16 @@
   "file": "LLJ99999__jack-codex.jpg",
   "still": "LLJ99999__jack-codex.jpg"
  },
+ "Ramtoi/skill-tree": {
+  "repo": "Ramtoi/skill-tree",
+  "url": "https://raw.githubusercontent.com/Ramtoi/skill-tree/HEAD/docs/screenshots/library.png",
+  "alt": "The Skill Tree library: global and portable skills, MCP servers, and bundles",
+  "score": -0.15,
+  "type": "image/png",
+  "bytes": 709930,
+  "file": "Ramtoi__skill-tree.jpg",
+  "still": "Ramtoi__skill-tree.jpg"
+ },
  "activeloopai/hivemind": {
   "repo": "activeloopai/hivemind",
   "url": "https://raw.githubusercontent.com/activeloopai/hivemind/HEAD/docs/screenshots/codebase-graph.webp",
@@ -38,6 +48,16 @@
   "bytes": 1851528,
   "file": "activeloopai__hivemind.jpg",
   "still": "activeloopai__hivemind.jpg"
+ },
+ "avalonreset/cto-legends": {
+  "repo": "avalonreset/cto-legends",
+  "url": "https://raw.githubusercontent.com/avalonreset/cto-legends/HEAD/assets/banner.webp",
+  "alt": "cto-legends agent skills router: one skill for 21 open-source modules, every cha",
+  "score": -0.5,
+  "type": "image/webp",
+  "bytes": 17040,
+  "file": "avalonreset__cto-legends.jpg",
+  "still": "avalonreset__cto-legends.jpg"
  },
  "eatmoreduck/SkillManager": {
   "repo": "eatmoreduck/SkillManager",

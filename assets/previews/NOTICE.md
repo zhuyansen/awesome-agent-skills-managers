@@ -8,6 +8,7 @@ authors and stay under the license of the project they come from. To have one re
 |---|---|---|---|
 | `777genius__universal-agent-plugins.jpg` | [777genius/universal-agent-plugins](https://github.com/777genius/universal-agent-plugins) | Apache-2.0 | [source](https://github.com/user-attachments/assets/33833cd2-f525-49b2-9181-5a4d643d2f5b) |
 | `activeloopai__hivemind.jpg` | [activeloopai/hivemind](https://github.com/activeloopai/hivemind) | Apache-2.0 | [source](https://raw.githubusercontent.com/activeloopai/hivemind/HEAD/docs/screenshots/codebase-graph.webp) |
+| `avalonreset__cto-legends.jpg` | [avalonreset/cto-legends](https://github.com/avalonreset/cto-legends) | MIT | [source](https://raw.githubusercontent.com/avalonreset/cto-legends/HEAD/assets/banner.webp) |
 | `Dimillian__CodexSkillManager.jpg` | [Dimillian/CodexSkillManager](https://github.com/Dimillian/CodexSkillManager) | MIT | [source](https://raw.githubusercontent.com/Dimillian/CodexSkillManager/HEAD/image.png) |
 | `eatmoreduck__SkillManager.jpg` | [eatmoreduck/SkillManager](https://github.com/eatmoreduck/SkillManager) | MIT | [source](https://raw.githubusercontent.com/eatmoreduck/SkillManager/HEAD/docs/screenshots/My%20Skills.png) |
 | `klubinskak__skilldex.jpg` | [klubinskak/skilldex](https://github.com/klubinskak/skilldex) | MIT | [source](https://raw.githubusercontent.com/klubinskak/skilldex/HEAD/docs/screenshots/hero.png) |
@@ -16,6 +17,7 @@ authors and stay under the license of the project they come from. To have one re
 | `neiii__bridle.jpg` | [neiii/bridle](https://github.com/neiii/bridle) | MIT | [source](https://raw.githubusercontent.com/neiii/bridle/HEAD/assets/bridle_header.png) |
 | `phillarmonic__repertoire-ai.jpg` | [phillarmonic/repertoire-ai](https://github.com/phillarmonic/repertoire-ai) | MIT | [source](https://raw.githubusercontent.com/phillarmonic/repertoire-ai/HEAD/docs/images/repertoire500.png) |
 | `pr-pm__prpm.gif` | [pr-pm/prpm](https://github.com/pr-pm/prpm) | MIT | [source](https://raw.githubusercontent.com/pr-pm/prpm/main/packages/webapp/public/demo.gif) |
+| `Ramtoi__skill-tree.jpg` | [Ramtoi/skill-tree](https://github.com/Ramtoi/skill-tree) | Apache-2.0 | [source](https://raw.githubusercontent.com/Ramtoi/skill-tree/HEAD/docs/screenshots/library.png) |
 | `rohitg00__skillkit.jpg` | [rohitg00/skillkit](https://github.com/rohitg00/skillkit) | Apache-2.0 | [source](https://raw.githubusercontent.com/rohitg00/skillkit/HEAD/docs/img/skillkit-ui.png) |
 | `taito-project__taito.gif` | [taito-project/taito](https://github.com/taito-project/taito) | MIT | [source](https://raw.githubusercontent.com/taito-project/.github/main/assets/taito-promo.gif) |
 | `tt-a1i__skillroster.jpg` | [tt-a1i/skillroster](https://github.com/tt-a1i/skillroster) | Apache-2.0 | [source](https://raw.githubusercontent.com/tt-a1i/skillroster/HEAD/docs/assets/skillroster-hero.png) |
